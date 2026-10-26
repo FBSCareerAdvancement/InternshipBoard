@@ -2,7 +2,7 @@
 <!--
   UVA BATTEN INTERNSHIP BOARD / GRADUWAY - INTERNSHIP RSS FEED
   Last updated: 2026-10-26
-  Jobs in feed: 18
+  Jobs in feed: 23
 -->
 <rss version="2.0">
   <channel>
@@ -427,6 +427,126 @@ Logistics: Competitive hourly compensation (the posting does not state a rate). 
       <email></email>
       <industry>Financial Services</industry>
       <job_function>Legislative, Research, Analyst, Lobbying</job_function>
+    </item>
+    <item>
+      <recruiter_job_id>BATTEN-CIA-GRAD-ANALYST-20261026</recruiter_job_id>
+      <company>Central Intelligence Agency (CIA)</company>
+      <logo>https://www.google.com/s2/favicons?domain=cia.gov&amp;sz=128</logo>
+      <website>https://www.cia.gov/ehl/careers</website>
+      <company_website>https://www.cia.gov</company_website>
+      <title>Graduate Studies Program - Intelligence Analyst</title>
+      <description>This position was posted with no close date and applications may be reviewed or closed on a rolling basis — interested applicants should apply ASAP! The posting will be removed from Batten Connect on 11/09/2026.
+
+The Central Intelligence Agency's Graduate Studies Program places graduate students in the Directorate of Analysis as Intelligence Analyst Graduate Interns. Interns work on teams with full-time intelligence analysts, studying and evaluating information from all available sources, classified and unclassified, and analyzing it to provide timely and objective assessments to customers such as the President, the National Security Council and other U.S. policymakers. The program also lets participants and the Agency assess opportunities for permanent employment after the participant completes graduate school.
+
+Key responsibilities: Liberal arts majors research, analyze, write and brief on international political, military, economic and leadership developments. Engineering, science and other technical students analyze and provide written and oral assessments on national security issues, including foreign weapons development, weapons proliferation, cyber warfare and emerging technologies, and apply their scientific and technical knowledge to complex intelligence problems. Interns also become familiar with the Agency and the Intelligence Community by taking part in a range of meetings and projects.
+
+Qualifications: Enrolled as a full-time graduate student in one of these fields or a related one: area studies, computer science, cybersecurity, economics, engineering, geography, international affairs or physical sciences. Students entering graduate school must produce an acceptance letter before onboarding. A GPA of at least 3.0 on a 4-point scale. Attending school full-time after the internship. The ability to meet the minimum requirements for joining CIA, including U.S. citizenship and a background investigation. No desired qualifications are listed.
+
+Compensation and logistics: The starting salary is $67,360 to $112,808, and a higher starting salary is possible depending on experience level. Two 90-day tours are preferred; one 90-day tour is the minimum requirement. The posting does not state a work location or an application deadline. Apply through the CIA careers site.</description>
+      <employment_type>Internship/Fellowship</employment_type>
+      <post_date>2026-10-26</post_date>
+      <end_date>2026-11-09</end_date>
+      <location>See posting for office location</location>
+      <email></email>
+      <industry>Government – Federal</industry>
+      <job_function>Analyst, Research, Government - Federal</job_function>
+    </item>
+    <item>
+      <recruiter_job_id>BATTEN-CIA-GRAD-OSINT-20261026</recruiter_job_id>
+      <company>Central Intelligence Agency (CIA)</company>
+      <logo>https://www.google.com/s2/favicons?domain=cia.gov&amp;sz=128</logo>
+      <website>https://www.cia.gov/ehl/careers</website>
+      <company_website>https://www.cia.gov</company_website>
+      <title>Graduate Studies Program - Open Source</title>
+      <description>This position was posted with no close date and applications may be reviewed or closed on a rolling basis — interested applicants should apply ASAP! The posting will be removed from Batten Connect on 11/09/2026.
+
+As an Open Source Graduate Intern at the Central Intelligence Agency, you will discover, collect, curate and assess foreign-based publicly available information, also known as Open Source Intelligence (OSINT). The goal is to deliver actionable targeting strategies and data-driven intelligence products that inform operations, drive collection and support U.S. national security needs, and to provide open-source data and reporting that helps answer intelligence questions. The role sits in the Directorate of Mission Systems. Jobs you could be considered for include Open Source Exploitation Officer, Open Source Targeter and Open Source Collection Specialist.
+
+Qualifications: A bachelor's degree. Full-time student pursuing a graduate degree in one of these fields or a related one: international affairs/relations, political science, national security studies, geography/GIS, foreign language/linguistics, library/information science, STEM degrees, or data science or data analysis. A GPA of at least 3.0 on a 4-point scale. Attending school full-time before and after the internship. Basic proficiency in one or more foreign languages. Excellent interpersonal and communication skills. The ability to work in a team environment. The ability to navigate traditional media, the internet, social media environments and other large datasets.
+
+Desired qualifications: Socio-political experience of specific geographic regions. Experience with both quantitative and qualitative data analysis. Experience using methodologies or models to identify trends, patterns, relationships or anomalies within large datasets. The ability to work within an ambiguous, evolving digital environment as a member of a collaborative team. Experience with programming and algorithmic techniques.
+
+Compensation and logistics: The starting salary is $67,360 to $71,209, and a higher starting salary is possible depending on experience level. Two 90-day tours are preferred; one 90-day tour is the minimum requirement. The posting does not state a work location or an application deadline. Apply through the CIA careers site.</description>
+      <employment_type>Internship/Fellowship</employment_type>
+      <post_date>2026-10-26</post_date>
+      <end_date>2026-11-09</end_date>
+      <location>See posting for office location</location>
+      <email></email>
+      <industry>Government – Federal</industry>
+      <job_function>Research, Analyst, Quantitative/Data Analysis, Government - Federal</job_function>
+    </item>
+    <item>
+      <recruiter_job_id>BATTEN-CIA-UG-DESIGN-20261026</recruiter_job_id>
+      <company>Central Intelligence Agency (CIA)</company>
+      <logo>https://www.google.com/s2/favicons?domain=cia.gov&amp;sz=128</logo>
+      <website>https://www.cia.gov/ehl/careers</website>
+      <company_website>https://www.cia.gov</company_website>
+      <title>Undergraduate Internship/Co-op Program - Cartographer, Editor, Graphic or Interactive Designer</title>
+      <description>This position was posted with no close date and applications may be reviewed or closed on a rolling basis — interested applicants should apply ASAP! The posting will be removed from Batten Connect on 11/09/2026.
+
+Undergraduate students serving as Cartographer, Editor, Graphic Designer or Interactive Designer Interns at the Central Intelligence Agency work side by side with Agency officers to support intelligence analysis for the President of the United States, U.S. policymakers and other officials. The role sits in the Directorate of Analysis. Interns also become familiar with the Agency and the Intelligence Community by taking part in a range of meetings and projects.
+
+Key responsibilities: Cartographer interns research, design and produce thematic and reference maps that support CIA finished intelligence. Editor interns handle tasks related to producing and publishing products, including editing, creating and processing text and graphic products for mobile, web and hardcopy dissemination. Graphic designers and interactive designers conceptualize, design and produce visual solutions for a wide variety of formats and dissemination outputs.
+
+Qualifications: Full-time undergraduate student in one of these fields or a related one: geography, geo-science, graphic or interactive/UI/UX design, English, journalism or communications. A GPA of at least 3.0 on a 4-point scale is preferred, but exceptions may be made for extenuating circumstances. Attending school full-time before and after the internship. The ability to meet the minimum requirements for joining CIA, including U.S. citizenship and a background investigation. Desired: knowledge of industry-standard graphic design, interactive design or cartographic software, and familiarity with mobile and web production.
+
+Compensation and logistics: The starting salary is $54,378 to $57,486, and a higher starting salary is possible depending on experience level. Two 90-day tours are preferred; one 90-day tour is the minimum requirement. The posting does not state a work location or an application deadline. Apply through the CIA careers site.</description>
+      <employment_type>Internship/Fellowship</employment_type>
+      <post_date>2026-10-26</post_date>
+      <end_date>2026-11-09</end_date>
+      <location>See posting for office location</location>
+      <email></email>
+      <industry>Government – Federal</industry>
+      <job_function>Arts and Design, Media, Communications, &amp; PR, Government - Federal</job_function>
+    </item>
+    <item>
+      <recruiter_job_id>BATTEN-CIA-UG-ANALYST-20261026</recruiter_job_id>
+      <company>Central Intelligence Agency (CIA)</company>
+      <logo>https://www.google.com/s2/favicons?domain=cia.gov&amp;sz=128</logo>
+      <website>https://www.cia.gov/ehl/careers</website>
+      <company_website>https://www.cia.gov</company_website>
+      <title>Undergraduate Internship/Co-op Program - Intelligence Analyst</title>
+      <description>This position was posted with no close date and applications may be reviewed or closed on a rolling basis — interested applicants should apply ASAP! The posting will be removed from Batten Connect on 11/09/2026.
+
+The Central Intelligence Agency's Undergraduate Internship/Co-op Program places undergraduates in the Directorate of Analysis as Intelligence Analyst Interns. Interns work on teams alongside full-time analysts, studying and evaluating information from all available sources, classified and unclassified, and analyzing it to provide timely and objective assessments to customers such as the President, the National Security Council and other U.S. policymakers. The program lets interns and the Agency assess opportunities to serve as a graduate fellow, if schooling continues, or to join the Agency as a permanent employee after completing undergraduate school.
+
+Key responsibilities: Liberal arts majors research, analyze, write and brief on international political, military, economic and leadership developments. Engineering, science and other technical students analyze and provide written and oral assessments on national security issues, including foreign weapons development, weapons proliferation, cyber warfare and emerging technologies, and apply their scientific and technical knowledge to complex intelligence problems. Interns also become familiar with the Agency and the Intelligence Community by taking part in a range of meetings and projects.
+
+Qualifications: Full-time undergraduate student from a variety of majors, including area studies, computer science, cybersecurity, economics, engineering, international affairs and physical sciences. A GPA of at least 3.0 on a 4-point scale. Attending school full-time before and after the internship. The ability to meet the minimum requirements for joining CIA, including U.S. citizenship and a background investigation. No desired qualifications are listed.
+
+Compensation and logistics: The starting salary is $54,378 to $57,486, and a higher starting salary is possible depending on experience level. Two 90-day tours are preferred; one 90-day tour is the minimum requirement. The posting does not state a work location or an application deadline. Apply through the CIA careers site.</description>
+      <employment_type>Internship/Fellowship</employment_type>
+      <post_date>2026-10-26</post_date>
+      <end_date>2026-11-09</end_date>
+      <location>See posting for office location</location>
+      <email></email>
+      <industry>Government – Federal</industry>
+      <job_function>Analyst, Research, Government - Federal</job_function>
+    </item>
+    <item>
+      <recruiter_job_id>BATTEN-CIA-UG-OSINT-20261026</recruiter_job_id>
+      <company>Central Intelligence Agency (CIA)</company>
+      <logo>https://www.google.com/s2/favicons?domain=cia.gov&amp;sz=128</logo>
+      <website>https://www.cia.gov/ehl/careers</website>
+      <company_website>https://www.cia.gov</company_website>
+      <title>Undergraduate Internship/Co-op Program - Open Source</title>
+      <description>This position was posted with no close date and applications may be reviewed or closed on a rolling basis — interested applicants should apply ASAP! The posting will be removed from Batten Connect on 11/09/2026.
+
+As an Open Source Undergraduate Intern at the Central Intelligence Agency, you will discover, collect, curate and assess foreign-based publicly available information, also known as Open Source Intelligence (OSINT). The goal is to deliver actionable targeting strategies and data-driven intelligence products that inform operations, drive collection and support U.S. national security needs, and to provide open-source data and reporting that helps answer intelligence questions. The role sits in the Directorate of Mission Systems. Jobs you could be considered for include Open Source Exploitation Officer, Open Source Targeter and Open Source Collection Specialist.
+
+Qualifications: Full-time undergraduate student in one of these fields or a related one: international affairs/relations, political science, national security studies, media studies, geography/GIS, foreign language/linguistics, library/information science, STEM degrees, or data science or data analysis. A GPA of at least 3.0 on a 4-point scale. Completion of at least one academic year of college. Attending school full-time before and after the internship or co-op. Basic proficiency in one or more foreign languages. Excellent interpersonal and communication skills. Critical thinking and research skills. The ability to work in a team environment. The ability to navigate traditional media, the internet, social media environments and other large datasets.
+
+Desired qualifications: Socio-political experience of specific geographic regions. Experience with both quantitative and qualitative data analysis. Experience using methodologies or models to identify trends, patterns, relationships or anomalies within large datasets. The ability to work within an ambiguous, evolving digital environment as a member of a collaborative team. Experience with programming and algorithmic techniques.
+
+Compensation and logistics: The starting salary is $67,360 to $71,209, and a higher starting salary is possible depending on experience level. Two 90-day tours are preferred; one 90-day tour is the minimum requirement. The posting does not state a work location or an application deadline. Apply through the CIA careers site.</description>
+      <employment_type>Internship/Fellowship</employment_type>
+      <post_date>2026-10-26</post_date>
+      <end_date>2026-11-09</end_date>
+      <location>See posting for office location</location>
+      <email></email>
+      <industry>Government – Federal</industry>
+      <job_function>Research, Analyst, Quantitative/Data Analysis, Government - Federal</job_function>
     </item>
   </channel>
 </rss>

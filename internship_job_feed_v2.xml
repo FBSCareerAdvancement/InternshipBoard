@@ -2,7 +2,7 @@
 <!--
   UVA BATTEN INTERNSHIP BOARD / GRADUWAY - INTERNSHIP RSS FEED
   Last updated: 2026-10-26
-  Jobs in feed: 23
+  Jobs in feed: 24
 -->
 <rss version="2.0">
   <channel>
@@ -547,6 +547,30 @@ Compensation and logistics: The starting salary is $67,360 to $71,209, and a hig
       <email></email>
       <industry>Government – Federal</industry>
       <job_function>Research, Analyst, Quantitative/Data Analysis, Government - Federal</job_function>
+    </item>
+    <item>
+      <recruiter_job_id>BATTEN-NIH-SIP-20261026</recruiter_job_id>
+      <company>National Institutes of Health (NIH)</company>
+      <logo>https://www.google.com/s2/favicons?domain=nih.gov&amp;sz=128</logo>
+      <website>https://www.training.nih.gov/research-training/pb/sip/</website>
+      <company_website>https://www.nih.gov</company_website>
+      <title>Summer Internship Program (SIP)</title>
+      <description>The NIH Summer Internship Program (SIP) is a full-time, in-person summer research internship in the NIH Intramural Research Program (IRP). It is for community college, college, graduate and professional students who want to explore careers in research and healthcare. Interns work in a research group led by a Principal Investigator (PI) at one of the NIH Institutes and Centers. Research groups are located on all NIH campuses, including the main campus in Bethesda, Maryland. Opportunities span the biomedical, behavioral and social sciences and include basic, translational and clinical research. Interns may not work in administrative offices or outside the IRP.
+
+What interns do and receive: Perform research in a PI's group. Take part in professional development programs focused on core competencies for healthcare, research and other science careers, educational and career programming, and a well-being and resilience program. Attend the Graduate and Professional School Fair in July and present research at Summer Poster Day in early August.
+
+Qualifications: Applicants must be U.S. citizens or permanent residents; permanent residents must be attending, or have been accepted into, U.S. educational institutions. Applicants must be 18 by September 30, 2027 (graduating high school seniors who turn 18 by then may qualify if they live within 40 miles of an NIH campus). Applicants must be enrolled at least half-time in an accredited community college, college, university, graduate or professional program at the time of application, or be accepted into an accredited graduate program for the fall. Students interested in biology, engineering, epidemiology, psychology, mathematics, chemistry, pharmaceutical sciences, nursing, physics, computer science, bioinformatics and other health-related fields are invited to apply. Applicants with a family member working at NIH should note the strict nepotism policy, which may limit placement options.
+
+Compensation and logistics: The internship must be completed between May 10 and August 31, 2027, with start and end dates set in consultation with the selecting PI. It is a full-time, in-person commitment; remote and virtual internships are not permitted, and interns must be available for the entire period, with no vacations or summer classes. Stipends are set annually by educational level; the posting does not give amounts. Free parking is available on each campus, NIH does not provide housing, and interns must show proof of health insurance.
+
+How to apply: Apply through the NIH Application Center with a coursework list, CV or resume, a personal statement, and two references. The application closes Tuesday, January 26, 2027 at 12 pm ET, and reference letters are due Tuesday, February 2, 2027 at 12 pm ET. There is no centralized selection: individual PIs review applications and choose their own interns, so applicants should also contact PIs directly. Selection is completed by April 1. An application webinar is scheduled for November 17, 2026, 4 to 5 pm ET (virtual).</description>
+      <employment_type>Internship/Fellowship, In-Person</employment_type>
+      <post_date>2026-10-26</post_date>
+      <end_date>2027-01-26</end_date>
+      <location>Bethesda, MD (and other NIH campuses)</location>
+      <email></email>
+      <industry>Government – Federal</industry>
+      <job_function>Research, Healthcare Services, Government - Federal</job_function>
     </item>
   </channel>
 </rss>

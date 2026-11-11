@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   UVA BATTEN INTERNSHIP BOARD / GRADUWAY - INTERNSHIP RSS FEED
-  Last updated: 2026-11-10
-  Jobs in feed: 69
+  Last updated: 2026-11-11
+  Jobs in feed: 70
 -->
 <rss version="2.0">
   <channel>
@@ -10,8 +10,8 @@
     <link>https://batten.uva.edu</link>
     <description>Curated internship listings for UVA Batten Internship Board powered by Graduway</description>
     <language>en-us</language>
-    <pubDate>2026-11-10</pubDate>
-    <lastBuildDate>2026-11-10</lastBuildDate>
+    <pubDate>2026-11-11</pubDate>
+    <lastBuildDate>2026-11-11</lastBuildDate>
     <item>
       <recruiter_job_id>859</recruiter_job_id>
       <company>CNA</company>
@@ -1637,6 +1637,30 @@ The posting does not state the hours, the pay or stipend, the dates or an applic
       <email></email>
       <industry>Government – State/Local</industry>
       <job_function>Research, Analyst, Social Services, Government - State/Local</job_function>
+    </item>
+    <item>
+      <recruiter_job_id>BATTEN-RANGEL-SEP-20261110</recruiter_job_id>
+      <company>Charles B. Rangel International Affairs Program (Howard University)</company>
+      <logo>https://rangelprogram.org/wp-content/uploads/2021/07/Rangel-Logo-Transparent-2.png</logo>
+      <website>https://rangelprogram.org/summer-enrichment-program/overview-eligibility/</website>
+      <company_website>https://rangelprogram.org</company_website>
+      <title>Rangel International Affairs Summer Enrichment Program (2027)</title>
+      <description>The Charles B. Rangel International Affairs Summer Enrichment Program is a six-week summer program that gives undergraduate students a deeper appreciation of current issues and trends in international affairs, a better understanding of career opportunities in the field, and the knowledge and skills to pursue those careers. The program selects participants, known as Rangel Scholars, from universities across the United States. Scholars live at Howard University in Washington, DC, attend classes, and take part in programs with foreign affairs professionals at Howard and at locations around the city. The program is run with the U.S. Department of State.
+
+What the program includes: Two courses at Howard University and a writing seminar. Past courses have included History of U.S. Foreign Relations, which covers major events and themes in U.S. foreign relations since the 19th century, and Political Economy, which reviews the U.S. economy, introduces public policy analysis tools and covers international economic topics such as trade, globalization and international financial institutions. The non-credit Writing Seminar builds the ability to draft clear, concise and persuasive documents for international affairs careers. Scholars also meet government and nongovernmental professionals, and in recent years have met a former Secretary of State, the Director General of the Foreign Service, Congressman Rangel and dozens of other foreign affairs professionals. Scholars visit institutions such as the U.S. Congress, the Department of State, the Central Intelligence Agency, the Pentagon, the National Security Council, foreign embassies, the United Nations Information Center, the National Democratic Institute, the Organization of American States and think tanks and nongovernmental organizations. The program also helps students explore graduate school, scholarship, fellowship, internship and professional options in international affairs.
+
+Cost and stipend: The program covers tuition, housing and approved air or train travel to Washington, DC from the participant's home or school, and it provides a $3,300 stipend.
+
+Eligibility: Applicants must be full-time undergraduate students with at least sophomore status on the application deadline; seniors are eligible if they are enrolled full-time in spring 2027. Applicants must have a cumulative GPA of at least 3.2 on a 4.0 scale at the time of application and must be U.S. citizens.
+
+Dates and how to apply: The 2027 program runs June 7 to July 17, 2027. The application deadline is February 4, 2027, finalists are notified in spring 2027, and applications are submitted at apply.rangelprogram.org. Questions can go to rangelprogram@howard.edu or (202) 806-4367.</description>
+      <employment_type>Certification/Educational Opportunity</employment_type>
+      <post_date>2026-11-11</post_date>
+      <end_date>2027-02-04</end_date>
+      <location>Washington, DC</location>
+      <email></email>
+      <industry>Higher Education</industry>
+      <job_function>Education, Research, Government - Federal</job_function>
     </item>
   </channel>
 </rss>

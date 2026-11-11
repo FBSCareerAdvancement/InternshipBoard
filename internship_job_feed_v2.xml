@@ -2,7 +2,7 @@
 <!--
   UVA BATTEN INTERNSHIP BOARD / GRADUWAY - INTERNSHIP RSS FEED
   Last updated: 2026-11-11
-  Jobs in feed: 70
+  Jobs in feed: 72
 -->
 <rss version="2.0">
   <channel>
@@ -1661,6 +1661,46 @@ Dates and how to apply: The 2027 program runs June 7 to July 17, 2027. The appli
       <email></email>
       <industry>Higher Education</industry>
       <job_function>Education, Research, Government - Federal</job_function>
+    </item>
+    <item>
+      <recruiter_job_id>BATTEN-MONUMENT-PA-20261111</recruiter_job_id>
+      <company>Monument Advocacy</company>
+      <logo>https://www.google.com/s2/favicons?domain=monumentadvocacy.com&amp;sz=128</logo>
+      <website>https://forms.gle/1ocQFNmRZF6GkSkYA</website>
+      <company_website>https://www.monumentadvocacy.com</company_website>
+      <title>Public Affairs Intern (Fellow)</title>
+      <description>Monument Advocacy, a consulting firm focused on government relations, strategic communications and public affairs, is hiring a Public Affairs Intern (Fellow) for an in-person internship in Washington, DC. The internship is open to college, postgraduate and graduate-level candidates, and recent graduates and career changers are welcome.
+
+Focus areas: Public affairs and government relations. Policy and media research. Strategic communications and messaging. Coalition building and advocacy campaigns.
+
+Compensation and how to apply: The pay is $18.40 per hour. The application deadline is November 13, 2026. Apply through the Google Form linked in the original posting. This listing is based on a short summary and does not include hours, dates or detailed qualifications. For full position details and to apply, please visit the original posting.</description>
+      <employment_type>Internship/Fellowship, In-Person</employment_type>
+      <post_date>2026-11-11</post_date>
+      <end_date>2026-11-13</end_date>
+      <location>Washington, DC</location>
+      <email></email>
+      <industry>Government Relations</industry>
+      <job_function>Media, Communications, &amp; PR, Advocacy, Research, Lobbying</job_function>
+    </item>
+    <item>
+      <recruiter_job_id>BATTEN-CALKIN-PAINTERN-20261111</recruiter_job_id>
+      <company>Calkin Public Affairs (CPA)</company>
+      <logo>https://www.google.com/s2/favicons?domain=calkinpa.com&amp;sz=128</logo>
+      <website>https://www.publicpolicyamerica.com/p/65-policy-jobs-as-dc-changes-hands-apple-stripe-google-spacex-more</website>
+      <company_website>https://www.calkinpa.com</company_website>
+      <title>Public Affairs Intern</title>
+      <description>Calkin Public Affairs (CPA) is hiring a Public Affairs Intern for an in-person internship in Sacramento, California. No experience is required.
+
+Focus areas: Legislative and regulatory research. Policy briefings. Political and stakeholder monitoring. Client communications and advocacy campaigns.
+
+Compensation and how to apply: The pay is $17.50 per hour. The application deadline is November 30, 2026. Apply by emailing comms@calkinpa.com. This listing is based on a short summary from a policy jobs newsletter, so it does not include hours, dates or a full list of duties and qualifications. For full position details, please contact Calkin Public Affairs directly.</description>
+      <employment_type>Internship/Fellowship, In-Person</employment_type>
+      <post_date>2026-11-11</post_date>
+      <end_date>2026-11-30</end_date>
+      <location>Sacramento, CA</location>
+      <email>comms@calkinpa.com</email>
+      <industry>Government Relations</industry>
+      <job_function>Legislative, Research, Advocacy, Lobbying</job_function>
     </item>
   </channel>
 </rss>

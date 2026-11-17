@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   UVA BATTEN INTERNSHIP BOARD / GRADUWAY - INTERNSHIP RSS FEED
-  Last updated: 2026-11-11
-  Jobs in feed: 72
+  Last updated: 2026-11-17
+  Jobs in feed: 61
 -->
 <rss version="2.0">
   <channel>
@@ -10,8 +10,8 @@
     <link>https://batten.uva.edu</link>
     <description>Curated internship listings for UVA Batten Internship Board powered by Graduway</description>
     <language>en-us</language>
-    <pubDate>2026-11-11</pubDate>
-    <lastBuildDate>2026-11-11</lastBuildDate>
+    <pubDate>2026-11-17</pubDate>
+    <lastBuildDate>2026-11-17</lastBuildDate>
     <item>
       <recruiter_job_id>859</recruiter_job_id>
       <company>CNA</company>
@@ -195,76 +195,6 @@ How to apply: Apply through the NIH Application Center with a coursework list, C
       <job_function>Research, Healthcare Services, Government - Federal</job_function>
     </item>
     <item>
-      <recruiter_job_id>11478930</recruiter_job_id>
-      <company>BerryDunn</company>
-      <logo>https://www.google.com/s2/favicons?domain=berrydunn.com&amp;sz=128</logo>
-      <website>https://virginia.joinhandshake.com/public/jobs/11478930?utm_source=web&amp;utm_campaign=job_share&amp;utm_medium=copy_link&amp;utm_content=stu-copy_link-job_page</website>
-      <company_website>https://www.berrydunn.com</company_website>
-      <title>Consulting Intern, Government Procurement and Contracting Analyst</title>
-      <description>This position was posted with no close date and applications may be reviewed or closed on a rolling basis — interested applicants should apply ASAP! The posting will be removed from Batten Connect on 11/11/2026.
-
-BerryDunn's Local Government Practice Group serves clients running cities, towns, counties and school districts across the country. A core service is software system planning, including developing competitive request for proposal (RFP) documents that help clients evaluate large-scale software to replace legacy products, such as enterprise resource planning (ERP), permitting and land management, utility billing, electronic health records, and CAD/RMS and related public safety systems. As a Consulting Intern serving as a Government Procurement and Contracting Analyst, you receive guidance from the supervisors, consultants or principals leading each engagement and work mainly alongside a Manager who supports procurement planning across multiple project teams. The internship is based in BerryDunn's Portland, Maine office and runs from May 25, 2027 through August 6, 2027. The firm expects flexibility, a willingness to seek advice and a passion for learning.
-
-Key responsibilities: Develop an understanding of the consulting process in local government. Assist with consulting engagements of all sizes. Support project management tasks such as tracking and reporting progress, conducting research, maintaining the project document repository and reviewing deliverables for quality assurance. Help prepare solicitation documents, including RFPs, scoring tools and templates. Follow appropriate diagnostic, data collection, fact-finding and data analysis practices. Keep supervisors informed of project status. Provide ad hoc assessments and briefings in response to client requests. Take part in team meetings and training and work as a team player on multiple client projects.
-
-Qualifications: Currently enrolled in a BA, BS or MS program in political science, business administration, or public policy or administration, or hold an undergraduate degree in a relevant field and have at least 12 months of government procurement experience. Legal authorization to work in the U.S. without employer sponsorship, now or in the future. Strong organizational skills with the ability to manage multiple tasks and deadlines. Strong Microsoft Office skills and attention to detail. Demonstrated relationship-building experience and excellent writing and communication skills. Relevant experience in government, procurement or public administration is a plus. Willingness and ability to travel.
-
-Compensation and application: The pay is $30 per hour. Applicants submit a resume and an unofficial transcript. The posting does not state an application deadline.</description>
-      <employment_type>Internship/Fellowship</employment_type>
-      <post_date>2026-10-28</post_date>
-      <end_date>2026-11-11</end_date>
-      <location>Portland, ME</location>
-      <email></email>
-      <industry>Consulting - Public</industry>
-      <job_function>Consulting, Analyst, Purchasing, Government - State/Local</job_function>
-    </item>
-    <item>
-      <recruiter_job_id>11759825</recruiter_job_id>
-      <company>Federal Reserve Board</company>
-      <logo>https://www.google.com/s2/favicons?domain=federalreserve.gov&amp;sz=128</logo>
-      <website>https://virginia.joinhandshake.com/public/jobs/11759825?utm_source=web&amp;utm_campaign=job_share&amp;utm_medium=copy_link&amp;utm_content=stu-copy_link-job_page</website>
-      <company_website>https://www.federalreserve.gov</company_website>
-      <title>Summer 2027 Intern, Congressional Liaison Office- BDM</title>
-      <description>This position was posted with no close date and applications may be reviewed or closed on a rolling basis — interested applicants should apply ASAP! The posting will be removed from Batten Connect on 11/11/2026.
-
-The Federal Reserve Board's Congressional Liaison Office is hiring a Summer 2027 intern. The intern supports Congressional Liaison Office staff on a wide variety of assignments, including weekly report and background memo preparation, hearing preparation, congressional correspondence, legislative tracking, and Senate and House floor proceedings. The intern also conducts research for special projects, helps compile and distribute reports, testimony and other documents to Congress, assists with general administrative tasks, and may be asked to help on other special projects as time permits. Learning objectives are critical thinking, problem solving, communication, professionalism, integrity, collaboration and leadership.
-
-Qualifications: A GPA of 3.0 or above and enrollment in an accredited undergraduate or graduate program. U.S. citizenship is required for all Board internships, and applicants must be current students who graduate in August 2027 or later. Excellent oral and written communication skills. Commitment to high-quality work, sound judgment, strong interpersonal skills, a positive attitude and the ability to thrive in a fast-paced environment. Proficiency in Microsoft Office, SharePoint, Windows and internet research. A demonstrated interest in and general understanding of the Federal Reserve System, financial markets, global and domestic current events and economics, plus an interest in political science and government relations. Preferred: practice with summary-style writing and with researching and tracking legislative initiatives. Suggested majors are political science or government, public policy, economics, finance or a related field.
-
-Logistics and application: This is a full-time summer internship completed in person, on site in Washington, DC. Applicants submit a PDF resume, a cover letter describing their interest and qualifications, and a copy of their current unofficial transcript. A writing test may be administered. The posting does not state a salary or an application deadline.</description>
-      <employment_type>Internship/Fellowship, In-Person</employment_type>
-      <post_date>2026-10-28</post_date>
-      <end_date>2026-11-11</end_date>
-      <location>Washington, DC</location>
-      <email></email>
-      <industry>Government – Federal</industry>
-      <job_function>Legislative, Research, Administrative, Government - Federal</job_function>
-    </item>
-    <item>
-      <recruiter_job_id>11729717</recruiter_job_id>
-      <company>Ulman Public Policy</company>
-      <logo>https://www.google.com/s2/favicons?domain=ulmanpolicy.com&amp;sz=128</logo>
-      <website>https://virginia.joinhandshake.com/public/jobs/11729717?utm_source=web&amp;utm_campaign=job_share&amp;utm_medium=copy_link&amp;utm_content=stu-copy_link-job_page</website>
-      <company_website>https://ulmanpolicy.com</company_website>
-      <title>Public Policy Intern</title>
-      <description>This position was posted with no close date and applications may be reviewed or closed on a rolling basis — interested applicants should apply ASAP! The posting will be removed from Batten Connect on 11/11/2026.
-
-Ulman Public Policy is a boutique policy analysis and government relations company serving the needs of business, higher education, nonprofits and trade associations. It is looking for a public policy intern who is interested in government relations and has some background in the field.
-
-Responsibilities: Assist with state-level legislative and regulatory tracking. Conduct policy research and provide analysis for national clients on issues including labor and employment, immigration, education, workforce development, transportation and urban forestry. Watch and summarize Congressional hearings. Draft blog posts, social media entries and memos.
-
-Qualifications: On track to obtain a bachelor's degree in 2027 or 2028. Interest in, and demonstrable skills in, research and writing. Interest in public policy, government and bipartisan government relations, with an open mind. The ability to work independently and collaboratively. Demonstrated engagement outside of academics, such as real-world work experience, other internships, or participation in clubs, publications or productions.
-
-How to apply: Email a resume, a writing sample that demonstrates research and writing skills, and any other helpful materials, such as recommendations, published articles, or social media posts supporting an activity, organization or cause, to isabella@ulmanpolicy.com. The posting does not state a location, a salary or an application deadline.</description>
-      <employment_type>Internship/Fellowship</employment_type>
-      <post_date>2026-10-28</post_date>
-      <end_date>2026-11-11</end_date>
-      <location>See posting for office location</location>
-      <email>isabella@ulmanpolicy.com</email>
-      <industry>Government Relations</industry>
-      <job_function>Research, Analyst, Legislative, Lobbying</job_function>
-    </item>
-    <item>
       <recruiter_job_id>11569600</recruiter_job_id>
       <company>Asian Pacific American Institute for Congressional Studies (APAICS)</company>
       <logo>https://www.google.com/s2/favicons?domain=apaics.org&amp;sz=128</logo>
@@ -313,30 +243,6 @@ How to apply: Submit four short-answer questions, a PDF resume of two pages at m
       <job_function>Legislative, Advocacy, Community Engagement</job_function>
     </item>
     <item>
-      <recruiter_job_id>11568190</recruiter_job_id>
-      <company>Ankura</company>
-      <logo>https://www.google.com/s2/favicons?domain=ankura.com&amp;sz=128</logo>
-      <website>https://virginia.joinhandshake.com/public/jobs/11568190?utm_source=web&amp;utm_campaign=job_share&amp;utm_medium=copy_link&amp;utm_content=stu-copy_link-job_page</website>
-      <company_website>https://www.ankura.com</company_website>
-      <title>Graduate Intern, Healthcare Real Estate Solutions</title>
-      <description>This position was posted with no close date and applications may be reviewed or closed on a rolling basis — interested applicants should apply ASAP! The posting will be removed from Batten Connect on 11/11/2026.
-
-Ankura's healthcare capital and real estate practice advises the nation's leading health systems on critical capital and real estate investments, from planning and design to financing and implementation, with the goal of delivering the right care in the right place at the right cost. As a Summer Intern, you work on a project team to turn complex healthcare, financial, operational and market data into insights that support major capital and real estate decisions. The role suits a strong analytical problem solver who wants to build models, create clear visualizations and communicate findings that help healthcare leaders act decisively. The posting lists the position with Ankura's Construction Disputes and Advisory business group.
-
-Key responsibilities: Support the collection, integration, cleaning and validation of large clinical, financial, operational and market datasets. Develop financial and operational analyses, including revenue, cost, margin, utilization and trend analyses. Analyze healthcare metrics such as patient volumes, length of stay, service lines, case mix and facility utilization. Help build financial models, business cases, ROI analyses and demand forecasts. Create charts, dashboards and PowerPoint presentations for project teams and client leadership. Conduct research, document assumptions and methods, perform quality-control reviews and support client deliverables.
-
-Qualifications: Pursuing a master's degree with an expected graduation date between December 2027 and August 2028 in finance, healthcare administration, business, accounting, economics, statistics, public policy or a related quantitative field. A cumulative GPA of 3.2 or better. Interest in healthcare financial analysis, strategy, capital planning or real estate advisory, and in working with large, disparate datasets. Proficiency in Excel and PowerPoint; familiarity with Tableau, Power BI, SQL, Access, or R, SAS or SPSS is preferred. Strong analytical, problem-solving, written communication and presentation skills. The role requires permanent authorization to work in the U.S. (U.S. citizen or permanent resident); internships are not eligible for visa sponsorship or temporary work authorization such as OPT or CPT. Willingness to travel and to work overtime when asked.
-
-Compensation: The estimated pay range is $40 to $50 per hour. The posting does not state an application deadline.</description>
-      <employment_type>Internship/Fellowship</employment_type>
-      <post_date>2026-10-28</post_date>
-      <end_date>2026-11-11</end_date>
-      <location>Multiple Locations (United States)</location>
-      <email></email>
-      <industry>Management Consulting</industry>
-      <job_function>Analyst, Consulting, Finance, Quantitative/Data Analysis</job_function>
-    </item>
-    <item>
       <recruiter_job_id>11597599</recruiter_job_id>
       <company>Office of National Drug Control Policy (ONDCP), Executive Office of the President</company>
       <logo>https://www.google.com/s2/favicons?domain=whitehouse.gov&amp;sz=128</logo>
@@ -359,54 +265,6 @@ How to apply: Email Ramon.d.hamilton@ondcp.eop.gov and Sebastian.a.parker-vaugha
       <email>Ramon.d.hamilton@ondcp.eop.gov</email>
       <industry>Government – Federal</industry>
       <job_function>Government - Federal, Research, Analyst, Legislative</job_function>
-    </item>
-    <item>
-      <recruiter_job_id>11623607</recruiter_job_id>
-      <company>ICF</company>
-      <logo>https://www.google.com/s2/favicons?domain=icf.com&amp;sz=128</logo>
-      <website>https://virginia.joinhandshake.com/public/jobs/11623607?utm_source=web&amp;utm_campaign=job_share&amp;utm_medium=copy_link&amp;utm_content=stu-copy_link-job_page</website>
-      <company_website>https://www.icf.com</company_website>
-      <title>2027 Summer Intern, Sustainable Mobility</title>
-      <description>This position was posted with no close date and applications may be reviewed or closed on a rolling basis — interested applicants should apply ASAP! The posting will be removed from Batten Connect on 11/11/2026.
-
-ICF is a global consulting firm. Its Transportation Portfolio addresses planning, policy and program issues at the nexus of transportation and the environment, energy and communities, including strategic planning, research, policy analysis, training and program evaluation for federal, state and local governments. The Sustainable Mobility intern helps with employer and community engagement on projects, mainly for New York State, with possible opportunities in other states or at the federal level. The role suits someone with a background or interest in sustainable transportation and improving air quality who is comfortable speaking one-on-one by phone and video, at community events, and presenting to large groups.
-
-Key responsibilities: Work with a team to support client initiatives and promote sustainable mobility options. Prospect promotional opportunities and build relationships with new stakeholders, including employers, universities, colleges, municipalities, healthcare providers and community-based organizations. Attend meetings and public events to promote programs focused on micromobility, ridesharing, mobility on demand, microtransit and shared mobility. Help facilitate virtual and on-site meetings and engagement events, and travel to stakeholder worksites on an ad hoc basis (0 to 2 times per week). Interns are accountable for goals set during the first week.
-
-Qualifications: By the start date, at least 30 credit hours in marketing, communications, sustainability, environmental science, economics or related subjects. U.S. citizenship is required under federal contracts. Preferred: demonstrated interest or background in transportation and environmental issues, strong Microsoft Office skills, excellent oral and written communication, independent research experience, the ability to manage multiple projects under strict deadlines, community engagement or sales experience, consulting experience with public-sector clients, and a general understanding of public transportation systems.
-
-Logistics: The internship is full-time for 10 weeks, from early June to early August. Work may be done in a hybrid capacity from New York, Albany or Buffalo, New York. Some travel is needed, and occasional evening or weekend hours may be required for events. The posting does not state a salary or an application deadline.</description>
-      <employment_type>Internship/Fellowship, Hybrid</employment_type>
-      <post_date>2026-10-28</post_date>
-      <end_date>2026-11-11</end_date>
-      <location>New York, NY (also Albany and Buffalo, NY)</location>
-      <email></email>
-      <industry>Management Consulting</industry>
-      <job_function>Community Engagement, Consulting, Energy/Environment, Media, Communications, &amp; PR</job_function>
-    </item>
-    <item>
-      <recruiter_job_id>11798782</recruiter_job_id>
-      <company>Federal Reserve Bank of Atlanta</company>
-      <logo>https://www.google.com/s2/favicons?domain=atlantafed.org&amp;sz=128</logo>
-      <website>https://virginia.joinhandshake.com/public/jobs/11798782?utm_source=web&amp;utm_campaign=job_share&amp;utm_medium=copy_link&amp;utm_content=stu-copy_link-job_page</website>
-      <company_website>https://www.atlantafed.org</company_website>
-      <title>Community and Economic Development Summer Intern (Graduate)</title>
-      <description>This position was posted with no close date and applications may be reviewed or closed on a rolling basis — interested applicants should apply ASAP! The posting will be removed from Batten Connect on 11/11/2026.
-
-The Federal Reserve Bank of Atlanta's Community and Economic Development (CED) Department is seeking a full-time intern for summer 2027, with the possibility of continuing part-time in the fall. CED works to improve the economic mobility and resilience of people and places in the Southeast by conducting research and building data tools, engaging stakeholders, and tracking and elevating issues facing the region's lower-income residents. It acts as a bridge between research and practice, connecting researchers, businesses and policymakers with approaches to creating economic opportunity through education and employment. Onsite work is an essential function of the position.
-
-Key responsibilities: Analyze data and report on community and economic development issues in support of research papers and projects. Develop and maintain contact databases. Conduct literature reviews. Help prepare for and host virtual events and conferences. Write and review articles for the online publications Partners Update and Workforce Currents. Help develop surveys and analyze survey results. Support long-term department strategic planning. Provide administrative support to CED.
-
-Qualifications: A graduate student in urban planning, urban studies, public policy, public administration, economics, geography, business, sociology or a related field, currently enrolled in a graduate degree program through the internship. Interest and coursework in community or economic development. A cumulative GPA above 3.0. Strong skills in Excel, PowerPoint, Word and Office 365, and in R or Python, with familiarity with data libraries such as dplyr and pandas and with public data sources such as ACS, CPS, QCEW and IPEDS. Excellent analytical, writing and verbal communication skills, and the ability to work independently and in a team. A commitment to work up to 40 hours a week for 10 to 12 weeks in the summer and up to 20 hours a week in the fall. Applicants must be authorized to work in the U.S. without visa sponsorship, now or in the future.
-
-Benefits and application: Interns receive professional development opportunities, MARTA passes, free LinkedIn Learning and FedFuel access, flexible hours and an on-site fitness center. Send a cover letter, resume and brief writing sample; interviewed candidates complete a short programming exercise. The offer is contingent on a background screening that can take about 8 weeks. The posting does not state a salary or an application deadline.</description>
-      <employment_type>Internship/Fellowship, In-Person</employment_type>
-      <post_date>2026-10-28</post_date>
-      <end_date>2026-11-11</end_date>
-      <location>Atlanta, GA</location>
-      <email></email>
-      <industry>Banking</industry>
-      <job_function>Research, Analyst, Quantitative/Data Analysis, Community Engagement</job_function>
     </item>
     <item>
       <recruiter_job_id>BATTEN-IDA-STPI-20261028</recruiter_job_id>
@@ -455,134 +313,6 @@ Compensation and how to apply: $32.00 per hour, overtime eligible. Applicants su
       <email></email>
       <industry>Think Tanks</industry>
       <job_function>Research, Analyst, Quantitative/Data Analysis</job_function>
-    </item>
-    <item>
-      <recruiter_job_id>4483126606</recruiter_job_id>
-      <company>Federal Reserve Board</company>
-      <logo>https://www.google.com/s2/favicons?domain=federalreserve.gov&amp;sz=128</logo>
-      <website>https://www.linkedin.com/jobs/view/4483126606/</website>
-      <company_website>https://www.federalreserve.gov</company_website>
-      <title>Regulation &amp; Policy Graduate Intern</title>
-      <description>This position was posted with no close date and applications may be reviewed or closed on a rolling basis — interested applicants should apply ASAP! The posting will be removed from Batten Connect on 11/11/2026.
-
-The Federal Reserve Board's internship program gives undergraduate and graduate students paid work experience for careers in areas such as economics, finance and accounting, information systems and data analysis. Interns receive a syllabus or research project plan with their projects and goals, an assigned supervisor or mentor, regular check-ins with their manager, and access to training programs and events for professional development. This posting is for the Board's Regulation &amp; Policy (R&amp;P) division, which has five functions: developing supervisory policies and regulations, coordinating domestic and international regulatory engagement, advising on innovation and emerging risks in banking and finance, overseeing accounting standards, and managing anti-money-laundering supervisory coordination.
-
-What you will do: Support R&amp;P's five functions through strategic priorities and ad hoc projects. Support stakeholder engagement by coordinating meetings with trade associations, supervised institutions, international regulatory bodies, government agencies, Board leadership and subject matter experts on policy priorities and industry issues. Help track, monitor and draft key policy priorities, projects and deliverables. Prepare and coordinate drafts of policy memoranda, presentations, speeches, congressional testimony and executive summaries for senior leadership. Contribute to special projects and process improvement initiatives.
-
-Qualifications: Pursuing a graduate degree in public policy or a related field and graduating in August 2027 or later. Strong analytical thinking, qualitative research ability, organization and attention to detail. The ability to work in a fast-paced environment and engage with complex subject matter. Good written and verbal communication, including summarizing complex information clearly and concisely. Collaboration and interpersonal skills. Quantitative and qualitative literacy, including interpreting numbers, data and public comment letters.
-
-Requirements and logistics: U.S. citizenship is required. Applicants must be current students returning to their studies after the internship, and proof of enrollment is required. This position requires an on-site presence in Washington, DC. The role is a fixed-term internship, pay grades FH 20 to FH 22, with a listed pay of 33.65 (the posting does not state the unit, which is likely hourly). Relocation is not provided. The posting does not state the internship term or an application deadline.</description>
-      <employment_type>Internship/Fellowship, In-Person</employment_type>
-      <post_date>2026-10-28</post_date>
-      <end_date>2026-11-11</end_date>
-      <location>Washington, DC</location>
-      <email></email>
-      <industry>Government – Federal</industry>
-      <job_function>Analyst, Research, Government - Federal</job_function>
-    </item>
-    <item>
-      <recruiter_job_id>4485216590</recruiter_job_id>
-      <company>Sustainable Strategies DC (S2)</company>
-      <logo>https://www.google.com/s2/favicons?domain=strategiesdc.com&amp;sz=128</logo>
-      <website>https://www.linkedin.com/jobs/view/4485216590/</website>
-      <company_website>https://www.strategiesdc.com</company_website>
-      <title>Government Affairs &amp; Grants Intern (Spring 2027)</title>
-      <description>Sustainable Strategies DC (S2) is a small strategic consulting, grant writing and government affairs firm representing local governments and nonprofit organizations across the country. It helps communities obtain resources for infrastructure, economic development, resilience, parks and recreation, arts and culture, public safety, economic mobility and other projects by developing projects, identifying funding, preparing competitive grant applications and advocating with federal policymakers. The firm is headquartered in Washington, DC, with a Western office in Denver, CO. S2 seeks a paid, part-time Government Affairs &amp; Grants Intern for the Spring 2027 semester to support its federal advocacy, grant writing and research work.
-
-Key responsibilities: Research federal, state and philanthropic funding opportunities for local government and nonprofit clients. Support grant applications by researching community needs, gathering data, preparing materials and assisting with submissions. Support federal appropriations work, including tracking congressional deadlines and guidance, researching funding accounts and maintaining internal tracking systems. Monitor and analyze congressional activity, federal legislation and agency policy affecting local governments, and prepare short research memos and legislative updates. Support federal advocacy by researching congressional offices, preparing briefing materials and helping coordinate client visits to Washington. Assist with business development, client communications and internal research and data management.
-
-Qualifications: A current upper-level undergraduate or graduate student, or a recent graduate, studying public policy, public administration, political science, economics, urban planning or a related field. Strong research, writing, analytical and verbal communication skills, shown through writing samples. Professional interest in community development, public policy, transportation infrastructure, environmental sustainability, resilience or related issues. The ability to handle multiple tasks, work independently and collaborate with a small team, with strong time management. Proficiency in Microsoft Office, especially Word and Excel, and sound judgment in using AI and other research tools while independently verifying information. Bonus: prior internship, coursework or experience in government affairs, public policy, grant writing or research; familiarity with Congress, federal appropriations or federal grant programs; and experience with data analysis, legislative tracking or policy research.
-
-Schedule and compensation: The internship runs January through May 2027 for up to 24 hours per week, with flexibility for academic commitments and for students seeking academic credit. S2 works on a hybrid schedule, with staff generally in the DC office Tuesday through Thursday. Pay is $20 to $24 per hour depending on qualifications and experience. Interns receive direct mentorship, feedback on research and writing, and exposure to careers in government affairs, grant writing and local government consulting.
-
-How to apply: Email a one-page cover letter, a resume including college GPA, and two to three writing samples of 2 to 5 pages to Morgan Harron at Morgan.Harron@strategiesdc.com by November 11, 2026. The cover letter should describe your interest in S2's work and your approach to using AI tools in research and writing, and note whether and how you used AI in any writing sample.</description>
-      <employment_type>Internship/Fellowship, Hybrid</employment_type>
-      <post_date>2026-10-28</post_date>
-      <end_date>2026-11-11</end_date>
-      <location>Washington, DC</location>
-      <email>Morgan.Harron@strategiesdc.com</email>
-      <industry>Government Relations</industry>
-      <job_function>Advocacy, Legislative, Research, Fundraising &amp; Development</job_function>
-    </item>
-    <item>
-      <recruiter_job_id>4479169675</recruiter_job_id>
-      <company>Natural Resources Defense Council (NRDC)</company>
-      <logo>https://www.google.com/s2/favicons?domain=nrdc.org&amp;sz=128</logo>
-      <website>https://www.linkedin.com/jobs/view/4479169675/</website>
-      <company_website>https://www.nrdc.org</company_website>
-      <title>Insurance Policy Research Graduate Intern (Summer 2027)</title>
-      <description>This position was posted with no close date and applications may be reviewed or closed on a rolling basis — interested applicants should apply ASAP! The posting will be removed from Batten Connect on 11/11/2026.
-
-NRDC (the Natural Resources Defense Council) is an international nonprofit environmental organization that combines more than 3 million members and online activists with some 800 policy advocates, lawyers, scientists and communication experts to confront the climate crisis, protect nature and ensure clean air, clean water and healthy communities. Its interns work with lawyers, scientists or policy analysts in different program areas. This graduate intern supports the Adaptation Division of NRDC's Environmental Health Department and reports to a Senior Advocate, Adaptation. The intern can be based in the New York or Washington, DC office.
-
-What you will do: Support NRDC's Insurance for a FAIR Future initiative, which works on the property insurance affordability and availability crisis and uses insurance as a tool to strengthen climate resilience and adaptation. Conduct policy and literature research, and synthesize emerging research and state-level developments into accessible internal briefs. Support engagement with community organizations, consumer advocates, policymakers and other stakeholders so diverse perspectives inform NRDC's insurance policy work. Potentially contribute to external blogs, educational materials and stakeholder convenings. Lead a primary project aligned with the initiative's goals, with deliverables that may include a policy analysis, internal research briefs, stakeholder meeting materials and recommendations on promising state-level policies that maintain access to insurance while reducing physical and financial risk.
-
-Qualifications: Currently enrolled in a graduate program. Strong written and verbal communication skills. Research or data analysis skills. Initiative, proactiveness and creativity. The ability to work collaboratively on a team and a commitment to NRDC's mission, values and DEI principles. Preferred: experience with disaster insurance or with financing climate adaptation and risk reduction, though this is not required.
-
-Details: The internship is 10 weeks at 35 hours per week. Choose from Summer Session 1 (May 24 to July 30, 2027), Session 2 (June 7 to August 13, 2027) or Session 3 (June 21 to August 27, 2027). It is hybrid, with interns in the office three days per week, and no relocation assistance. It is a paid internship with a stipend equivalent to $10,000 paid bi-weekly. Interns are not employees, fellows, volunteers or contractors of NRDC, and employment is not guaranteed afterward.
-
-How to apply: Apply through the application link on NRDC's careers page (iCIMS) with a resume and a cover letter that explains your interest in NRDC and which summer session or sessions you can join. Reviews began the week of October 26, and applications are reviewed on a rolling basis, so NRDC encourages early applications. Only complete applications submitted through iCIMS are considered; please do not call or email.</description>
-      <employment_type>Internship/Fellowship, Hybrid</employment_type>
-      <post_date>2026-10-28</post_date>
-      <end_date>2026-11-11</end_date>
-      <location>New York, NY or Washington, DC</location>
-      <email></email>
-      <industry>Renewables &amp; Environment</industry>
-      <job_function>Research, Advocacy, Energy/Environment, Analyst</job_function>
-    </item>
-    <item>
-      <recruiter_job_id>4485297712</recruiter_job_id>
-      <company>Sanofi</company>
-      <logo>https://www.google.com/s2/favicons?domain=sanofi.com&amp;sz=128</logo>
-      <website>https://www.linkedin.com/jobs/view/4485297712/</website>
-      <company_website>https://www.sanofi.com</company_website>
-      <title>2027 Summer Intern Policy and Government Affairs</title>
-      <description>This position was posted with no close date and applications may be reviewed or closed on a rolling basis — interested applicants should apply ASAP! The posting will be removed from Batten Connect on 11/11/2026.
-
-Sanofi is an R&amp;D-driven, AI-powered biopharma company that develops medicines and vaccines to treat and protect millions of people around the world, building on its deep understanding of the immune system. The company is seeking a highly motivated Summer Intern for its Policy and Government Affairs team in Washington, DC. Interns learn from mentors and collaborative teams while contributing to real projects, and the program lasts 8 to 12 weeks.
-
-Key responsibilities: Track and analyze federal legislation, hearings and policy trends that affect the biopharmaceutical industry. Help develop policy briefing materials, summaries, presentations and internal memos. Attend Congressional hearings, meetings and policy briefings as appropriate and prepare summaries for internal stakeholders. Research a wide range of topics, including drug pricing, AI in drug development and manufacturing, and Medicare and Medicaid policy.
-
-Qualifications: Currently enrolled in an undergraduate or graduate program at an accredited university focused on law, public policy, public health, political science, health economics or a related field, and enrolled throughout the internship. Permanent authorization to work in the U.S. without needing employment visa sponsorship, such as H-1B or green card sponsorship, now or in the future. Students on CPT, OPT or STEM OPT usually will need sponsorship for long-term employment and do not meet the program's requirements unless they have another long-term status that does not require company sponsorship. Interns must be able to relocate to the office location and work 40 hours per week, Monday to Friday, for the full internship.
-
-Preferred qualifications: Demonstrated interest in health law or policy, life sciences or the biopharmaceutical industry, with a clear academic or career direction toward that space. Strong written communication, including clear, concise policy memos, briefing materials, impact assessments and white papers for varied audiences (the top priority). Strong verbal communication and the ability to work with senior stakeholders and external partners. Familiarity with AI tools and AI agents for research, analysis and productivity. Basic knowledge of U.S. healthcare programs and stakeholders, including Medicare, Medicaid, 340B, pharmacy benefit managers (PBMs) and pharmaceutical reimbursement. A science background in biology, chemistry or life sciences alongside a policy or political science major is highly desirable. Interest in both U.S. domestic policy and global health policy. Proficiency in Word, PowerPoint and Excel.
-
-Compensation and logistics: The hourly pay range is $27.00 to $57.00, set according to demonstrated experience. The posting does not state an application deadline.</description>
-      <employment_type>Internship/Fellowship</employment_type>
-      <post_date>2026-10-28</post_date>
-      <end_date>2026-11-11</end_date>
-      <location>Washington, DC</location>
-      <email></email>
-      <industry>Biotechnology</industry>
-      <job_function>Legislative, Research, Analyst, Healthcare Services</job_function>
-    </item>
-    <item>
-      <recruiter_job_id>a5d0b720-c67c-466d-829e-bd3cc72d1339</recruiter_job_id>
-      <company>Strada Education Foundation</company>
-      <logo>https://lever-client-logos.s3.us-west-2.amazonaws.com/438d1baf-267e-461c-9909-7ed842f2d4a7-1736956316433.png</logo>
-      <website>https://jobs.lever.co/stradaeducation/a5d0b720-c67c-466d-829e-bd3cc72d1339</website>
-      <company_website>https://stradaeducation.org</company_website>
-      <title>Strada Education Foundation Internship: Policy Intern</title>
-      <description>This position was posted with no close date and applications may be reviewed or closed on a rolling basis — interested applicants should apply ASAP! The posting will be removed from Batten Connect on 11/11/2026.
-
-Strada Education Foundation is a national nonprofit social impact organization that supports programs, policies and organizations that strengthen the connection between education and employment in the U.S., with a special focus on people who have faced the greatest challenges securing economic opportunity through postsecondary education or training. Its strategic plan focuses on five areas: clear outcomes, quality coaching, affordable postsecondary education and training, work-based learning, and employer alignment. The summer internship program is a paid, 13-week, cohort-based experience for students who are at least one year past high school, with exposure to nonprofit operations, leadership and professional networking. This posting is for the Policy Intern in the Policy, Advocacy, and Communications department.
-
-Key responsibilities: Support the policy team's efforts to advance the organization's policy agenda at the federal and state levels. Help the policy team prepare to provide technical assistance to policymakers through the advocacy team. Content development, including writing background memos, landscape analyses and policy memos, and taking an active part in meetings with grantees and potential grantees. Project management, including developing meeting agendas, taking meeting notes and building PowerPoint presentations.
-
-What you will gain: Exposure to the nonprofit, postsecondary education and workforce development sectors through leadership speaker series, lunch-and-learns and industry interviews. High-impact work experience through rotational work and real projects with colleagues across teams. Coaching and mentorship from supervisors and executives, and a professional network built through community events and leadership exposure.
-
-Qualifications: At least one year out of high school and currently enrolled in, or accepted into, a postsecondary education or training program such as college, an apprenticeship or a boot camp. Strong written and verbal communication skills. Excellent attention to detail, time management and problem-solving. Demonstrated ability to learn quickly and contribute in a collaborative environment. Proficiency with Google Suite and Microsoft Office; familiarity with Zoom and Slack is a plus. Self-motivation, independence and openness to feedback. A passion for promoting equitable opportunities in education and employment, and a positive, collaborative attitude.
-
-Schedule and compensation: The internship runs May 18 to August 13, 2027, at a minimum of 30 hours per week as a seasonal employee. Pay is $22.75 per hour for undergraduates and $25.00 per hour for graduate students. The role is hybrid, based in Washington, DC or Indianapolis, IN, with office days on Tuesdays plus one other department-specific day, and extra days for events and professional development. Interns must be based in the Washington, DC area or Central Indiana and available for the full program. Travel for professional development is up to 15%.
-
-How to apply: Submit a resume, a cover letter explaining your interest, and a short Loom video completing the application task described in the posting's instructions. Incomplete applications may not be reviewed. The posting does not state an application deadline.</description>
-      <employment_type>Internship/Fellowship, Hybrid</employment_type>
-      <post_date>2026-10-28</post_date>
-      <end_date>2026-11-11</end_date>
-      <location>Washington, DC (or Indianapolis, IN)</location>
-      <email></email>
-      <industry>Foundations</industry>
-      <job_function>Advocacy, Research, Analyst, Project Management</job_function>
     </item>
     <item>
       <recruiter_job_id>BATTEN-GOVAI-DCFELLOW-20261028</recruiter_job_id>
@@ -655,154 +385,6 @@ How to apply: Submit your application, resume and cover letter by November 20, 2
       <job_function>Legislative, Advocacy, Research</job_function>
     </item>
     <item>
-      <recruiter_job_id>4486439365</recruiter_job_id>
-      <company>Monument Advocacy</company>
-      <logo>https://www.google.com/s2/favicons?domain=monumentadvocacy.com&amp;sz=128</logo>
-      <website>https://www.linkedin.com/jobs/view/4486439365/</website>
-      <company_website>https://www.monumentadvocacy.com</company_website>
-      <title>Public Policy Internship (Fellows)</title>
-      <description>Monument Advocacy seeks college, post-graduate or graduate-level candidates for a paid, part-time public policy internship based in one of its Washington, DC offices. Internally, Monument calls interns &quot;Fellows.&quot; Monument is a nationally recognized consulting firm focused on government relations, strategic communications and public affairs, with practice areas that span technology and innovation, sustainability, tax, trade and economic policy, travel and immigration, defense and cybersecurity, healthcare, food, agriculture, energy and more. Interns see the public policy and legislative process first-hand and gain government relations and multi-client experience. Since 2008, more than two dozen interns have joined the firm full-time, though the internship does not guarantee an offer.
-
-Duties: Conduct legislative, political and policy research. Track bills, regulatory developments and current events related to client interests. Cover congressional hearings, briefings and off-the-Hill policy events. Draft and edit policy materials, client and coalition memos, and summaries of hearings, bills and regulations. Support coalition and client advocacy efforts, including meeting notes, follow-up and project coordination. Assist with business development proposals and research. Interns use Monument-provided equipment, including Microsoft Office and firm-approved AI tools, and receive training on firm policies for their use, including client confidentiality.
-
-Who it is for: The program is for highly motivated students, recent graduates and career changers interested in public policy. A successful intern has strong interpersonal skills, the ability to work well under pressure, and a desire to learn about Congress and the public policy process. Interns build skills in research and writing, managing work for multiple clients, teamwork, critical thinking and time management under real deadlines, and in understanding the legislative and regulatory process.
-
-Compensation and schedule: Pay is $18.40 per hour, a non-exempt hourly rate that stays at or above the District of Columbia minimum wage. This is a part-time, in-person position, with no more than 29 hours per week and 129 hours per month, and interns may adjust which days they work within those limits. There is no fixed end date, and employment is at will. Benefits include a monthly commuter stipend, paid federal holidays, paid sick leave and summer half-Fridays; the position is not eligible for the firm's health insurance or retirement plan. Any offer is contingent on the federal I-9 process and onboarding documents.
-
-How to apply: The deadline is November 13, 2026. Submit a resume, cover letter, a 3 to 5 page writing sample and two references through the application form at https://forms.gle/a9N4kGj4Z2qGDHPy8. Only complete applications that include all requested materials are considered.</description>
-      <employment_type>Internship/Fellowship, In-Person</employment_type>
-      <post_date>2026-10-28</post_date>
-      <end_date>2026-11-13</end_date>
-      <location>Washington, DC</location>
-      <email></email>
-      <industry>Government Relations</industry>
-      <job_function>Legislative, Research, Lobbying, Advocacy</job_function>
-    </item>
-    <item>
-      <recruiter_job_id>4486185845</recruiter_job_id>
-      <company>Enterprise Community Partners</company>
-      <logo>https://www.google.com/s2/favicons?domain=enterprisecommunity.org&amp;sz=128</logo>
-      <website>https://www.linkedin.com/jobs/view/4486185845/</website>
-      <company_website>https://www.enterprisecommunity.org</company_website>
-      <title>Green Communities Intern</title>
-      <description>This position was posted with no close date and applications may be reviewed or closed on a rolling basis — interested applicants should apply ASAP! The posting will be removed from Batten Connect on 11/11/2026.
-
-Enterprise works to scale housing affordability solutions for millions of people. For more than 40 years it has invested more than $92 billion to create or preserve more than 1 million homes, bringing together partners, capital and capabilities to help what works reach more communities. The Green Communities Intern supports the Enterprise Green Communities Criteria, a national green building program designed for the affordable housing sector, as a member of the Building Resilient Futures (BRF) team. The Criteria shape the quality of affordable housing: 32 states require or incentivize developers seeking affordable housing funding to certify to them, and nearly 2,300 developments have been certified, creating efficient, healthy, resilient homes. This is a year-long internship beginning Winter 2027, part-time during the school year (winter and spring 2027 and fall 2027) and full-time over the 2027 summer.
-
-Responsibilities: Support the certification review team with administrative project reviews, architectural drawing reviews, plaque processing, certification work in Salesforce, and coordination with external clients. Support development of the next version of the Green Communities Criteria. Create communication materials such as case studies, blogs, social media posts and reports that share partners' work and the program's impact. Support the team's LinkedIn communications and update the program website. Support policy advocacy by conducting research, developing policy briefs, and tracking green building certification options within Low Income Housing Tax Credit (LIHTC) programs across the country.
-
-What the role requires: Strong oral and written communication skills; the ability to manage details and nuance while keeping the larger project purpose in mind; self-motivation; the ability to work independently and on a team; and the ability to manage and prioritize multiple tasks. The role is a chance to integrate green and resilient building practices into affordable housing development and influence housing policy nationwide.
-
-Compensation: The hourly rate is $20 to $24 for undergraduate students and $24 to $28 for graduate students, depending on skills and experience. The posting does not state an office location or an application deadline.</description>
-      <employment_type>Internship/Fellowship</employment_type>
-      <post_date>2026-10-28</post_date>
-      <end_date>2026-11-11</end_date>
-      <location>Multiple Locations (see posting)</location>
-      <email></email>
-      <industry>Nonprofit Organization Management</industry>
-      <job_function>Energy/Environment, Advocacy, Research, Real Estate</job_function>
-    </item>
-    <item>
-      <recruiter_job_id>CDC-2026-0142</recruiter_job_id>
-      <company>Centers for Disease Control and Prevention (CDC), via ORISE</company>
-      <logo>https://www.google.com/s2/favicons?domain=cdc.gov&amp;sz=128</logo>
-      <website>https://www.linkedin.com/jobs/view/4486427734/</website>
-      <company_website>https://www.cdc.gov</company_website>
-      <title>CDC Global Health Security Policy Research Opportunity (ORISE)</title>
-      <description>This position was posted with no close date and applications may be reviewed or closed on a rolling basis — interested applicants should apply ASAP! The posting will be removed from Batten Connect on 11/11/2026.
-
-The Centers for Disease Control and Prevention (CDC) protects America from health, safety and security threats, at home and abroad, and works globally with governments, local organizations and U.S. interagency partners to detect, respond to and contain disease threats. This mentored research opportunity in Washington, DC, administered through the Oak Ridge Institute for Science and Education (ORISE), examines interagency coordination and international financing approaches related to global health security. Using quantitative, comparative and data-analytic methods, participants study how CDC's Global Health Center works with U.S. government agencies, regional National Public Health Institutes and international public health organizations, including Africa CDC.
-
-What you will do, under the guidance of a mentor: Learn interagency coordination frameworks used in global health security. Analyze data on interagency engagement, such as meeting frequency and participation patterns. Learn how quantitative and comparative methods can examine interagency coordination and global health priorities. Analyze public health data and scientific information from global health security initiatives. Develop approaches for explaining data findings to scientific and public health audiences. Observe engagements with Ministries of Health, National Public Health Institutes and other global health organizations. Conduct comparative policy research on scientific and public health engagement between CDC and Africa CDC. Examine interagency and international financing initiatives, including the Pandemic Fund. Join multidisciplinary research discussions. The mentor is Jess Roach.
-
-Qualifications: A master's degree in a relevant field received within the past five years (60 months). Eligible disciplines include communications and health communications, environmental and marine sciences, life, health and medical sciences, and social and behavioral sciences. U.S. citizenship is required. Preferred: familiarity with global health settings and partners such as Ministries of Health and multilateral organizations, communications experience, the ability to handle competing priorities in a fast-paced environment, and professionalism and diplomacy. Applicants must not have previously been employed by CDC or a CDC contractor, with limited exceptions.
-
-Appointment details: The appointment is full time, starts around January 11, 2027 (flexible), and is initially for one year, renewable on CDC's recommendation and subject to funding. Participants are not CDC, DOE or ORISE employees and have no employment benefits, and proof of health insurance is required. The monthly stipend varies with education and experience and is stated in the offer. A complete application includes the online application, transcripts, a resume or CV, and one recommendation. Applications are reviewed on a rolling basis and may close before the deadline; the posting does not state the deadline. The reference code is CDC-2026-0142.</description>
-      <employment_type>Internship/Fellowship</employment_type>
-      <post_date>2026-10-28</post_date>
-      <end_date>2026-11-11</end_date>
-      <location>Washington, DC</location>
-      <email></email>
-      <industry>Government – Federal</industry>
-      <job_function>Research, Quantitative/Data Analysis, Healthcare Services, Government - Federal</job_function>
-    </item>
-    <item>
-      <recruiter_job_id>4486482630</recruiter_job_id>
-      <company>Alliance for American Leadership (A4AL)</company>
-      <logo>https://www.google.com/s2/favicons?domain=a4al.org&amp;sz=128</logo>
-      <website>https://www.linkedin.com/jobs/view/4486482630/</website>
-      <company_website>https://a4al.org</company_website>
-      <title>Government Affairs Intern (Volunteer)</title>
-      <description>This position was posted with no close date and applications may be reviewed or closed on a rolling basis — interested applicants should apply ASAP! The posting will be removed from Batten Connect on 11/11/2026.
-
-The Alliance for American Leadership (A4AL) is a grassroots coalition of foreign policy experts, veterans and young professionals dedicated to revitalizing American leadership. It believes international humanitarian and development assistance strengthens U.S. national security and the economy. Its members support policy changes to bolster foreign aid and help elect members of Congress from both parties who support diplomacy and development. A4AL recently held a Hill Day at the Capitol with over 130 advocates and a bipartisan press conference with four members of Congress. It is seeking Government Affairs Interns to help make the case to both parties, including in the offices that are hardest to win.
-
-Key responsibilities: Prepare audience-specific briefing materials for Republican and Democratic offices. Research constitutional appropriations questions, including impoundment law and the Impoundment Control Act. Track OMB apportionments and the status of withheld foreign assistance funds. Draft one-pagers making the national interest case for development programs. Help schedule, prepare and staff meetings with congressional offices. Maintain the congressional office tracker and meeting records. Ahead of the midterm elections, interns are expected to spend at least two hours per week phonebanking for A4AL's bipartisan slate of endorsed candidates, though A4AL may accept especially talented interns who cannot meet this requirement.
-
-Qualifications: Interest in separation of powers, appropriations or administrative law; professional written and verbal communication; comfort engaging offices and audiences on their own terms; and discretion and sound judgment.
-
-Location, hours and compensation: Interns may work remotely or in person in Washington, DC, where in-person staff meet at the Capitol three days a week. A4AL also has in-person programs in Fort Lauderdale and West Palm Beach, Florida, and in Bucks County, Pennsylvania. Many interns work 40 hours a week, and some work part-time. This is an unpaid, voluntary internship, and A4AL will help arrange academic credit or CPT. The posting does not state an application deadline.</description>
-      <employment_type>Internship/Fellowship</employment_type>
-      <post_date>2026-10-28</post_date>
-      <end_date>2026-11-11</end_date>
-      <location>Washington, DC (also remote and other U.S. cities)</location>
-      <email></email>
-      <industry>Civic &amp; Social Organization</industry>
-      <job_function>Advocacy, Legislative, Research</job_function>
-    </item>
-    <item>
-      <recruiter_job_id>4485782585</recruiter_job_id>
-      <company>Modern Technology Solutions (MTSI)</company>
-      <logo>https://www.google.com/s2/favicons?domain=mtsi-va.com&amp;sz=128</logo>
-      <website>https://www.linkedin.com/jobs/view/4485782585/</website>
-      <company_website>https://www.mtsi-va.com</company_website>
-      <title>Government Relations Intern</title>
-      <description>This position was posted with no close date and applications may be reviewed or closed on a rolling basis — interested applicants should apply ASAP! The posting will be removed from Batten Connect on 11/11/2026.
-
-Modern Technology Solutions (MTSI) is seeking a full-time Government Relations Intern in Alexandria, Virginia for Summer 2027. The role supports MTSI's defense technology and public policy initiatives, assisting with legislative strategy, policy research and compliance efforts for government contractors that support the U.S. Department of War. Candidates local to Alexandria are strongly desired.
-
-Key responsibilities: Research legislative, regulatory, political and national security developments relevant to MTSI's business objectives. Support the preparation of briefing materials, presentations, reports and summaries for internal stakeholders and leadership. Monitor congressional activity, defense policy developments and government affairs issues. Assist with stakeholder engagement, industry outreach, advocacy and relationship-building. Collaborate with Government Relations, Business Development and other teams. Support the coordination of industry events and meetings. Maintain internal research materials and reporting resources. Contribute to strategic research and special projects on defense, technology and national security.
-
-Qualifications: Currently enrolled in a degree-seeking program in business, economics, engineering, computer science, political science or a related field. Excellent written and verbal communication skills. A team player who can work independently and shows initiative, ownership and problem-solving. An understanding of the U.S. political process and public administration. Working skills in Outlook, Word, Excel and PowerPoint. The posting also lists as required: knowledge and working skills in Microsoft SharePoint via SPARC, Microsoft Fabric coding abilities, and Power BI, Power Automate and Power Apps.
-
-Clearance and eligibility: U.S. citizenship is required, along with the ability to obtain and maintain a U.S. government security clearance.
-
-Compensation and application: The pay range is $19.00 to $23.00 per hour, and base pay may vary with government contract ranges, skills and experience. MTSI offers medical benefits, a 401(k), an ESOP and paid time off, depending on the position. Applications are accepted on an ongoing basis, and the posting is renewed periodically until the position is filled.</description>
-      <employment_type>Internship/Fellowship</employment_type>
-      <post_date>2026-10-28</post_date>
-      <end_date>2026-11-11</end_date>
-      <location>Alexandria, VA</location>
-      <email></email>
-      <industry>Defense &amp; Space</industry>
-      <job_function>Legislative, Research, Analyst, Lobbying</job_function>
-    </item>
-    <item>
-      <recruiter_job_id>4485793847</recruiter_job_id>
-      <company>ICF</company>
-      <logo>https://www.google.com/s2/favicons?domain=icf.com&amp;sz=128</logo>
-      <website>https://www.linkedin.com/jobs/view/4485793847/</website>
-      <company_website>https://www.icf.com</company_website>
-      <title>Summer Intern, Energy Programs, Analytics, and Security</title>
-      <description>This position was posted with no close date and applications may be reviewed or closed on a rolling basis — interested applicants should apply ASAP! The posting will be removed from Batten Connect on 11/11/2026.
-
-ICF is seeking a detail-oriented, self-motivated summer intern for its Energy Programs, Analytics, and Security line of business. The intern contributes to projects that help government and commercial clients address complex challenges involving energy programs, markets, technologies, analytics, infrastructure and security, working in a collaborative, multidisciplinary team on research, data analysis, program implementation, technical assistance, communications and operations. The role offers exposure to high-profile energy initiatives and experienced professionals across a diverse portfolio of clients.
-
-Key responsibilities: Research energy programs, markets, technologies, infrastructure and policies. Collect, review, organize and analyze quantitative and qualitative data to support program implementation, evaluation and planning. Help translate technical information into clear findings and recommendations for reports, presentations and case studies. Support client programs, including technical assistance, stakeholder engagement and program operations. Maintain accurate information in customer relationship and project management systems. Analyze energy consumption, building performance, program participation and market data to identify trends. Help develop communications, outreach and training resources, including webinars, workshops and events. Support project teams in testing analytical tools and process improvements, and help with project coordination such as tracking activities, preparing meeting materials and documenting action items.
-
-Basic qualifications: At least 30 college credit hours completed in engineering, energy, environmental science or studies, data analytics, statistics, economics, business, public policy, communications, computer science or a closely related discipline. U.S. citizenship or permanent work authorization is required because of contract requirements. The position is not eligible for new H-1B visa sponsorship.
-
-Preferred qualifications: Related academic, professional or volunteer experience in energy, engineering, analytics, infrastructure, security, environmental programs, public policy or program implementation; research and synthesis experience; data analysis with spreadsheets, databases or visualization tools; report and presentation writing; interest in consulting with government, utility, commercial, industrial or nonprofit clients; strong analytical, organizational, communication and Microsoft Office skills, especially Excel and PowerPoint; and the ability to manage multiple assignments and deadlines.
-
-Logistics and pay: This is a full-time, 10-week internship that begins in early June 2027. The role is hybrid, two days a week in the office, from Arlington, VA, Reston, VA or New York, NY. Relocation and housing assistance are not available. Pay is expected to be $23 per hour for undergraduate interns; the posting also lists a full-time annual range of $37,855 to $64,354. ICF does not allow AI tools to generate or assist with interview responses unless an accommodation is arranged in advance. The posting does not state an application deadline.</description>
-      <employment_type>Internship/Fellowship, Hybrid</employment_type>
-      <post_date>2026-10-28</post_date>
-      <end_date>2026-11-11</end_date>
-      <location>Arlington, VA (also Reston, VA or New York, NY)</location>
-      <email></email>
-      <industry>Management Consulting</industry>
-      <job_function>Energy/Environment, Analyst, Quantitative/Data Analysis, Consulting</job_function>
-    </item>
-    <item>
       <recruiter_job_id>26-CLD-13035827-SV</recruiter_job_id>
       <company>U.S. Office of Personnel Management (OPM)</company>
       <logo>https://www.google.com/s2/favicons?domain=opm.gov&amp;sz=128</logo>
@@ -823,78 +405,6 @@ Eligibility and terms: Applicants must be U.S. citizens or U.S. nationals studyi
       <email></email>
       <industry>Government – Federal</industry>
       <job_function>Research, Analyst, Human Resources, Government - Federal</job_function>
-    </item>
-    <item>
-      <recruiter_job_id>EOP-OMB-13098014-26-NR-IN</recruiter_job_id>
-      <company>Office of Management and Budget (OMB), Executive Office of the President</company>
-      <logo>https://www.google.com/s2/favicons?domain=whitehouse.gov&amp;sz=128</logo>
-      <website>https://intern.usajobs.gov/job/889832800</website>
-      <company_website>https://www.whitehouse.gov/omb/</company_website>
-      <title>Student Trainee (Human Capital Modernization Project)</title>
-      <description>The Office of Management and Budget (OMB), part of the Executive Office of the President, is offering a project-based Student Trainee opportunity through the federal Semester of Service Program, an unpaid volunteer program that lets students support real federal missions and build career-ready skills. Students must be enrolled at least half-time in an accredited trade school, technical or vocational institute, junior college, college, university or other accredited institution. This posting supports a modernization project, with one vacancy in Washington, DC. Applications open November 2, 2026 and the posting closes November 16, 2026, or earlier once 75 applications have been received.
-
-Key responsibilities: Review all position descriptions in the position description (PD) library. Assign OMB personnel to the appropriate PD numbers. Prepare for workforce conversions and organizational changes resulting from executive orders. Support the ongoing modernization and enhancement of the PD library. Engage with peers and team members to gain the knowledge needed to complete projects. Maintain accurate documentation and records for all assigned projects. Take part in team meetings and collaborate with colleagues. Present findings on projects and assignments.
-
-Qualifications: Applicants are assessed individually on their ability to learn new processes, systems and responsibilities quickly in a fast-paced setting; manage multiple priorities, track milestones and finish work on time; work with team members to gather input, incorporate feedback and deliver high-quality outcomes; review HR metrics, spot trends and contribute data-driven recommendations for workforce planning and organizational effectiveness; prepare summaries, reports or progress updates; and communicate well orally and in writing. Students majoring in human resources, human capital, business administration, organizational leadership or a related field are preferred but not required. Applicants must be in good academic standing and attach their transcripts. Candidates should be committed to improving the efficiency of the federal government and to upholding the rule of law and the U.S. Constitution.
-
-Eligibility and terms: Applicants must be U.S. citizens or U.S. nationals studying in the U.S. or abroad; international students on valid visas may take part if they meet immigration, visa and agency requirements. Volunteers commit to 8 to 20 hours per week for at least 90 days, report to an EOP-assigned office, and must complete onboarding documents. Telework is not available. A drug test with a negative result is required before appointment, and the conditions of employment also say volunteers must obtain and maintain an interim or final security clearance before starting, although the announcement header lists the clearance as not required. The position is unpaid, with no compensation, stipends or hiring preference, although the experience may help qualify for future jobs. Volunteers are not federal employees. If OMB finishes its hiring, resumes of other qualified candidates may be shared with other agencies for applicants who opt in.</description>
-      <employment_type>Volunteer, In-Person</employment_type>
-      <post_date>2026-10-28</post_date>
-      <end_date>2026-11-16</end_date>
-      <location>Washington, DC</location>
-      <email></email>
-      <industry>Government – Federal</industry>
-      <job_function>Human Resources, Administrative, Analyst, Government - Federal</job_function>
-    </item>
-    <item>
-      <recruiter_job_id>4461515641</recruiter_job_id>
-      <company>Manatt Health (Manatt, Phelps &amp; Phillips, LLP)</company>
-      <logo>https://www.google.com/s2/favicons?domain=manatt.com&amp;sz=128</logo>
-      <website>https://www.linkedin.com/jobs/view/4461515641/</website>
-      <company_website>https://www.manatt.com</company_website>
-      <title>Summer Consultant, Manatt Health</title>
-      <description>This position was posted with no close date and applications may be reviewed or closed on a rolling basis — interested applicants should apply ASAP! The posting will be removed from Batten Connect on 11/11/2026.
-
-Manatt Health integrates consulting and legal expertise to serve the complex needs of clients across the health care system. Its team of more than 275 consultants and attorneys from Manatt, Phelps &amp; Phillips, LLP and its consulting subsidiary, Manatt Health Strategies, LLC, combines legal excellence, first-hand experience shaping public policy, strategy insight and analytic capability. The Summer Consultant Program is a paid, full-time, ten-week internship that gives graduate students meaningful consulting experience and serves as a pathway to consultant roles after graduation. Locations are Boston, Chicago, New York, San Francisco and Washington, DC. The role is for candidates expected to earn their graduate degree in winter 2027 or spring 2028, and interviews are expected to begin in January 2027.
-
-What the program offers: A kickoff orientation on the firm's culture and clients with formal skill development and content training. A mentor program, informal coaching and feedback sessions to build analytical and communication skills. Work on a range of health care consulting projects, hands-on experience on project teams, and engagement with industry leaders. A comprehensive overview of working as a consultant at Manatt Health Strategies.
-
-Position responsibilities: Work with Manatt Health's clients, which include state Medicaid agencies, health plans, academic medical centers and health systems, digital health companies, and pharmaceutical and life sciences companies. Tackle substantive issues such as payment and delivery system transformation, health care reform implementation, strategic planning, Medicaid policy, redesign and innovation, health care data and data strategy, and pharmaceutical and life sciences market access, coverage and reimbursement strategy. Contribute to strategies that advance clients' policy and business objectives, conduct qualitative and quantitative research on health care business and policy issues, develop and deliver presentations, monitor federal and state health policy trends, and track emerging health care market trends.
-
-Qualifications: A demonstrated interest in health care and enrollment in a graduate program focused on public health, business administration, public administration, public policy, health administration, health care management or a related area, with an anticipated graduation in winter 2027 or spring 2028. Preferred: two or more years of relevant work experience; internships and relevant lived experience with a demonstrated interest in business and marketplace issues, health equity and other health care trends; excellent problem-solving, organizational, analytical and communication skills; the ability to work independently and on teams; professional proficiency in Word, PowerPoint and Excel; and modeling skills, including developing financial models and completing complex data analysis. Applicants must be authorized to work for any employer in the U.S.; the firm cannot sponsor or take over sponsorship of an employment visa.
-
-Compensation and how to apply: The expected salary is $2,500 to $3,076 per week, depending on relevant experience and advanced degrees, and is subject to change at the firm's discretion. Apply through Manatt's online application portal with a cover letter, an unofficial graduate or undergraduate transcript, and a two to three page writing sample on which you are the sole or primary author, such as a memo, issue brief, short research paper, market analysis, personal statement or presentation. The posting does not state an application deadline.</description>
-      <employment_type>Internship/Fellowship</employment_type>
-      <post_date>2026-10-28</post_date>
-      <end_date>2026-11-11</end_date>
-      <location>Multiple Locations (Boston, MA; Chicago, IL; New York, NY; San Francisco, CA; Washington, DC)</location>
-      <email></email>
-      <industry>Management Consulting</industry>
-      <job_function>Consulting, Analyst, Healthcare Services, Research</job_function>
-    </item>
-    <item>
-      <recruiter_job_id>4479050817</recruiter_job_id>
-      <company>Symetra</company>
-      <logo>https://www.google.com/s2/favicons?domain=symetra.com&amp;sz=128</logo>
-      <website>https://www.linkedin.com/jobs/view/4479050817/</website>
-      <company_website>https://www.symetra.com</company_website>
-      <title>Public Affairs Intern</title>
-      <description>This position was posted with no close date and applications may be reviewed or closed on a rolling basis — interested applicants should apply ASAP! The posting will be removed from Batten Connect on 11/11/2026.
-
-Symetra is hiring a Public Affairs Intern. This is a fully remote internship, and equipment is shipped to the intern. Interns must be rising juniors or seniors, and they must be able to attend events in person in the Greater Seattle and Bellevue area.
-
-Key responsibilities: Conduct research, summarize legislation, track events and write policy briefs. Support community relations events and the corporate social responsibility (CSR) grant process. Assist with government webinars and hearings.
-
-Requirements: Rising junior or senior standing. The ability to attend in-person events in the Greater Seattle and Bellevue area. Symetra does not offer visa sponsorship for this role. Reliable home internet with at least 100 Mbps download and 20 Mbps upload is required, and satellite and cellular connections are not accepted.
-
-This listing does not state pay, dates, hours or an application deadline. For full position details and to apply, please visit the original posting.</description>
-      <employment_type>Internship/Fellowship, Remote</employment_type>
-      <post_date>2026-10-28</post_date>
-      <end_date>2026-11-11</end_date>
-      <location>Remote (Greater Seattle/Bellevue, WA area for in-person events)</location>
-      <email></email>
-      <industry>Financial Services</industry>
-      <job_function>Legislative, Research, Community Engagement, Advocacy</job_function>
     </item>
     <item>
       <recruiter_job_id>BATTEN-RFJ-RECORDSEAL-20261028</recruiter_job_id>
@@ -919,30 +429,6 @@ How to apply: The application deadline is December 1, 2026, and applications are
       <email>expungement@risingforjustice.org</email>
       <industry>Legal Services</industry>
       <job_function>Legal, Case Management, Community Engagement, Administrative</job_function>
-    </item>
-    <item>
-      <recruiter_job_id>4481381836</recruiter_job_id>
-      <company>Leavitt Partners (an HMA company)</company>
-      <logo>https://www.google.com/s2/favicons?domain=leavittpartners.com&amp;sz=128</logo>
-      <website>https://www.linkedin.com/jobs/view/4481381836/</website>
-      <company_website>https://www.leavittpartners.com</company_website>
-      <title>2027 Spring Fellowship, Leavitt Partners Collaborative Advocates</title>
-      <description>This position was posted with no close date and applications may be reviewed or closed on a rolling basis — interested applicants should apply ASAP! The posting will be removed from Batten Connect on 11/11/2026.
-
-Leavitt Partners, an HMA company, is seeking current or recent graduate students for its 2027 Spring Fellowship with Leavitt Partners Collaborative Advocates. The 12-week program runs through winter and spring 2027. The ideal candidate is interested in Medicare reimbursement, FDA regulation, public health research, health IT and health care reform. The Fellow supports client public policy and alliance work by doing comprehensive online, primary source and direct-to-source research (from agencies, Congress and the private sector) and by conveying findings to Collaborative Advocates team members. The Fellow also helps senior team members with task tracking, document preparation and other tasks that support client management. Leavitt Partners looks for adaptable, collaborative, professional people who thrive in fast-paced environments and who bring entrepreneurial spirit, self-efficacy, humility and a strong desire to learn.
-
-Key responsibilities: Summarize written research and prepare verbal briefings and presentations for client managers. Deliver timely, high-quality, client-ready work. Monitor and identify policy, legislative and regulatory developments relevant to clients. Develop web content for clients and help managers with client engagements. Perform secondary research and take part in directed primary research. Learn about Leavitt Partners products. Perform other duties as assigned.
-
-Qualifications: A law school student, graduate student or recent graduate in a program such as an MHA, MBA, public health, health law, public policy, political science or a related field. No prior policy or health care experience is required; experience in professional research and analysis and a demonstrated interest in health policy are preferred. Excellent research and analysis skills. Strong written and oral communication skills and the ability to summarize research and brief staff. A commitment to building expertise in two or more issue areas: CMS reimbursement, FDA regulation, public health, health IT research and health care reform. The posting also lists job-level competencies in receptiveness to feedback, reliability and task execution.
-
-Compensation and application: The estimated hourly rate is $30. HMA may adjust the posted rate for geographic differences. All applications are reviewed on a rolling basis. The posting does not state a work location or an application deadline.</description>
-      <employment_type>Internship/Fellowship</employment_type>
-      <post_date>2026-10-28</post_date>
-      <end_date>2026-11-11</end_date>
-      <location></location>
-      <email></email>
-      <industry>Management Consulting</industry>
-      <job_function>Research, Analyst, Healthcare Services, Advocacy</job_function>
     </item>
     <item>
       <recruiter_job_id>REQ-000361</recruiter_job_id>
@@ -1273,26 +759,6 @@ How to apply: Round one is a written application and, if selected, a roughly 20-
       <email></email>
       <industry>Think Tanks</industry>
       <job_function>Research, Analyst, Advocacy</job_function>
-    </item>
-    <item>
-      <recruiter_job_id>11660973</recruiter_job_id>
-      <company>New York City Department of Health and Mental Hygiene (DOHMH)</company>
-      <logo>https://www.google.com/s2/favicons?domain=nyc.gov&amp;sz=128</logo>
-      <website>https://virginia.joinhandshake.com/public/jobs/11660973?utm_source=web&amp;utm_campaign=job_share&amp;utm_medium=copy_link&amp;utm_content=stu-copy_link-job_page</website>
-      <company_website>https://www.nyc.gov</company_website>
-      <title>HRTP: Public Health Internship Program (Spring 2027)</title>
-      <description>HRTP, a public health internship program at the New York City Department of Health and Mental Hygiene (DOHMH), is accepting applications for its Spring 2027 internship session. The program offers internships in public health research, community health outreach and education, fieldwork, laboratory work and public health administration. It is open to current undergraduate, graduate and professional students in public health, health education, laboratory sciences, medicine, social work, environmental engineering, public administration, accounting, mathematics, computer science, law, nursing, the social sciences and many other majors. HRTP is committed to a diverse, inclusive and equitable workplace.
-
-Schedule: During the spring session, interns work 10 to 20 hours per week. The internship is in person, with an opportunity to be hybrid, and is based at DOHMH in New York City.
-
-How to apply: The application period for the Spring 2027 session runs from October 15 to November 15, 2026, and applications must be complete by the deadline to be considered. A complete application includes an electronic application, a current CV or resume, a personal essay, a school transcript from your current institution (unofficial is accepted) and one letter of recommendation submitted through the electronic application. Learn more at www.nyc.gov/health/hrtp, or contact hrtp@health.nyc.gov. The posting does not state a pay amount; the first sentence of the original posting also mentions a Fall 2026 session, so students should confirm the session on the HRTP site.</description>
-      <employment_type>Internship/Fellowship, In-Person</employment_type>
-      <post_date>2026-11-10</post_date>
-      <end_date>2026-11-15</end_date>
-      <location>New York, NY</location>
-      <email></email>
-      <industry>Government – State/Local</industry>
-      <job_function>Healthcare Services, Research, Community Engagement, Government - State/Local</job_function>
     </item>
     <item>
       <recruiter_job_id>11806729</recruiter_job_id>
@@ -1663,26 +1129,6 @@ Dates and how to apply: The 2027 program runs June 7 to July 17, 2027. The appli
       <job_function>Education, Research, Government - Federal</job_function>
     </item>
     <item>
-      <recruiter_job_id>BATTEN-MONUMENT-PA-20261111</recruiter_job_id>
-      <company>Monument Advocacy</company>
-      <logo>https://www.google.com/s2/favicons?domain=monumentadvocacy.com&amp;sz=128</logo>
-      <website>https://forms.gle/1ocQFNmRZF6GkSkYA</website>
-      <company_website>https://www.monumentadvocacy.com</company_website>
-      <title>Public Affairs Intern (Fellow)</title>
-      <description>Monument Advocacy, a consulting firm focused on government relations, strategic communications and public affairs, is hiring a Public Affairs Intern (Fellow) for an in-person internship in Washington, DC. The internship is open to college, postgraduate and graduate-level candidates, and recent graduates and career changers are welcome.
-
-Focus areas: Public affairs and government relations. Policy and media research. Strategic communications and messaging. Coalition building and advocacy campaigns.
-
-Compensation and how to apply: The pay is $18.40 per hour. The application deadline is November 13, 2026. Apply through the Google Form linked in the original posting. This listing is based on a short summary and does not include hours, dates or detailed qualifications. For full position details and to apply, please visit the original posting.</description>
-      <employment_type>Internship/Fellowship, In-Person</employment_type>
-      <post_date>2026-11-11</post_date>
-      <end_date>2026-11-13</end_date>
-      <location>Washington, DC</location>
-      <email></email>
-      <industry>Government Relations</industry>
-      <job_function>Media, Communications, &amp; PR, Advocacy, Research, Lobbying</job_function>
-    </item>
-    <item>
       <recruiter_job_id>BATTEN-CALKIN-PAINTERN-20261111</recruiter_job_id>
       <company>Calkin Public Affairs (CPA)</company>
       <logo>https://www.google.com/s2/favicons?domain=calkinpa.com&amp;sz=128</logo>
@@ -1701,6 +1147,278 @@ Compensation and how to apply: The pay is $17.50 per hour. The application deadl
       <email>comms@calkinpa.com</email>
       <industry>Government Relations</industry>
       <job_function>Legislative, Research, Advocacy, Lobbying</job_function>
+    </item>
+    <item>
+      <recruiter_job_id>11803298</recruiter_job_id>
+      <company>Children's Funding Project</company>
+      <logo>https://www.google.com/s2/favicons?domain=childrensfundingproject.org&amp;sz=128</logo>
+      <website>https://virginia.joinhandshake.com/public/jobs/11803298?utm_source=web&amp;utm_campaign=job_share&amp;utm_medium=copy_link&amp;utm_content=stu-copy_link-job_page</website>
+      <company_website>https://www.childrensfundingproject.org</company_website>
+      <title>Policy &amp; Events Intern</title>
+      <description>Children's Funding Project is a nonprofit social impact organization that helps communities and states expand equitable opportunities for children and youth through strategic public financing. Through hands-on technical assistance and a collection of resources, it helps advocates, policymakers, public agencies and funders identify and align existing funding, generate new revenue, and administer funds in ways that maximize impact. This fully remote internship (work from anywhere in the contiguous United States) supports the organization's mission to advance voter-approved children's funds (VACFs). The intern is supervised by the Vice President, Strategy &amp; Advocacy and receives technical direction from the Policy Associate, Voter-Approved Children's Funds.
+
+Key responsibilities: The intern's primary focus is supporting and coordinating the biennial Children's Funding Institute (CFI), a three-day intensive training for communities working to win a ballot campaign that creates a VACF. Duties include supporting internal meeting agendas, scheduling and note-taking; assisting with external communications with faculty, attendees, special guests and vendors; supporting registration, virtual elements of the event and the event app; and helping prepare printed materials, signage and supplies. The intern will travel to New Orleans to provide on-site support the week of June 21-25, 2027. The intern will also build a comprehensive understanding of existing and prospective VACFs nationwide, work with the VP to develop in-depth knowledge of a policy area covered at CFI (culminating in participation in a CFI session), and connect with funders, national advocacy and policy organizations, local elected officials, intermediaries, organizers and advocates in the child and youth field.
+
+Qualifications: Current undergraduate or graduate student, or recent graduate, with coursework in a relevant area (e.g., public policy, education, political science) and/or early career experience in a related field (child/youth policy, community organizing or campaign coordination, direct service with children and youth). Basic proficiency with Microsoft Office and/or Google Suite; excellent organizational, time management and project management skills; clear written and verbal communication; a team-oriented attitude and ability to work independently in a remote environment; commitment to diversity, equity, inclusion and justice. Experience with or desire to learn about child and youth financing policies, local ballot measure processes and event planning is a plus. Must be legally eligible to work in the U.S.; the organization cannot sponsor visas.
+
+Logistics: Approximately 6 months (ideally mid-January through June 2027), averaging 15-20 hours per week with occasional additional hours. Compensation is $20 per hour. Travel and lodging for CFI in New Orleans are covered. Application deadline is November 20, 2026. A cover letter is required (address what attracts you to the mission and the perspective you would bring); candidates invited to interview may be asked for a writing sample. Apply through the original posting.</description>
+      <employment_type>Internship/Fellowship, Remote</employment_type>
+      <post_date>2026-11-17</post_date>
+      <end_date>2026-11-20</end_date>
+      <location>Remote</location>
+      <email></email>
+      <industry>Nonprofit Organization Management</industry>
+      <job_function>Advocacy, Research, Project Management, Community Engagement</job_function>
+    </item>
+    <item>
+      <recruiter_job_id>11916660</recruiter_job_id>
+      <company>Vizient</company>
+      <logo>https://www.google.com/s2/favicons?domain=vizient.com&amp;sz=128</logo>
+      <website>https://virginia.joinhandshake.com/public/jobs/11916660?utm_source=web&amp;utm_campaign=job_share&amp;utm_medium=copy_link&amp;utm_content=stu-copy_link-job_page</website>
+      <company_website>https://www.vizient.com</company_website>
+      <title>Public Policy &amp; Government Relations Intern (Summer 2027)</title>
+      <description>This position was posted with no close date and applications may be reviewed or closed on a rolling basis — interested applicants should apply ASAP! The posting will be removed from Batten Connect on 12/01/2026.
+
+Vizient's Office of Public Policy and Government Relations in Washington, DC serves as an advocate and liaison on policy and legislative issues affecting the diverse healthcare organizations Vizient serves. The bipartisan team regularly examines emerging legislative and regulatory issues, conducts research on healthcare policy and coordinates appropriate responses. Vizient's intern program has offered college undergraduate, graduate and doctoral students practical experience since 2000; this is a full-time, paid, 10-week program with a supervisor/mentor, formal training and opportunities to interact with senior leaders, plus a community service project.
+
+Key responsibilities: Serve as a partner to the Public Policy &amp; Government Relations team; assist staff in developing and executing legislative and regulatory advocacy strategies and research key policy priorities; represent Vizient at Congressional hearings and briefings hosted by partner organizations, think tanks, federal agencies and academic institutions, and attend meetings with government officials; support advocacy communications collateral and other policy communications, including grassroots engagement; help develop educational materials and draft regulatory summaries and comment letters; and take part in health sector advocacy group meetings. Other duties may include administrative office support, updating public policy web pages, preparing policy memos and PowerPoint slides, and supporting political engagement and reporting.
+
+What you'll learn: Exposure to senior leadership on advocacy strategy and research; cross-functional networking; contact with government officials and healthcare partner organizations; skill development in advocacy strategy, government relations, policy research and analysis, writing, communications and project management; personalized strengths coaching; and an intern-led community impact project.
+
+Qualifications: Enrolled in a four-year accredited college or university in favorable academic standing; must have completed sophomore year before the internship starts or recently completed a degree. Knowledge of or demonstrated interest in politics and/or policy, including the legislative and regulatory process (interest in health policy preferred); demonstrated ability to conduct policy, legislative, regulatory or healthcare research and analysis; strong written communication (policy memos, summaries, briefing materials); strong interpersonal and project coordination skills. Prior experience with government, advocacy or policy organizations, or healthcare organizations is preferred but not required.
+
+Logistics: Program runs June 1 - August 6, 2027. Pay is $25 per hour. Based in Vizient's Washington, DC office, in the office Monday-Thursday with Fridays work from home. Apply through the original posting (the same role is also listed on LinkedIn).</description>
+      <employment_type>Internship/Fellowship, Hybrid</employment_type>
+      <post_date>2026-11-17</post_date>
+      <end_date>2026-12-01</end_date>
+      <location>Washington, DC</location>
+      <email></email>
+      <industry>Government Relations</industry>
+      <job_function>Advocacy, Lobbying, Legislative, Research, Analyst</job_function>
+    </item>
+    <item>
+      <recruiter_job_id>11893477</recruiter_job_id>
+      <company>Smithsonian Institution</company>
+      <logo>https://www.google.com/s2/favicons?domain=si.edu&amp;sz=128</logo>
+      <website>https://virginia.joinhandshake.com/public/jobs/11893477?utm_source=web&amp;utm_campaign=job_share&amp;utm_medium=copy_link&amp;utm_content=stu-copy_link-job_page</website>
+      <company_website>https://www.si.edu</company_website>
+      <title>Summer Program Intern</title>
+      <description>This position was posted with no close date and applications may be reviewed or closed on a rolling basis — interested applicants should apply ASAP! The posting will be removed from Batten Connect on 12/01/2026.
+
+This internship places a student with the Smithsonian's summer youth programs on the National Mall in Washington, DC. The Summer Program Intern supports and coordinates Smithsonian Summer Camp, Smithsonian Sleepovers and Discovery Theater programs, working with campers, assisting Youth Teacher Assistants and engaging in program planning and logistics while exploring arts administration, museum education and event production. The role is supervised by Brigitte Blachère, Program Manager, and offers professional development in cultural education and event management.
+
+Key responsibilities: Assist with all aspects of the daily running of summer youth and family programs, including working with campers (K-9th grade) and orchestrating the Youth Teacher Assistant (YTA) program (ages 15+); handle logistics for all programming, including internal paperwork and external communication with registrants; procure and organize program materials; oversee Before and After Camp and the lunch hour; research and create social media content (time permitting); ensure materials are ready for each sleepover (some crafting may be needed); attend all sleepovers, which include evening and weekend hours; and maintain clear communication at all levels.
+
+Qualifications: Experience or strong interest in working with children and/or in program administration in a museum or classroom setting; background or strong interest in program management, education and/or special events planning is required; ability to work quickly with attention to detail, independently and on a team; self-motivation; familiarity with Microsoft Word and Excel; strong computer and communication skills; and the ability to interact professionally with many types of people, including children, parents, instructors and peers.
+
+Logistics: Location is the S. Dillon Ripley Center, Smithsonian Institution, Washington, DC. Summer 2027 (June 1 - August 20), 40+ hours per week for one full summer. Pre/post-camp weeks (June 1-18 and August 16-20) run 10am-4pm; June 21 - August 13 shifts are eight hours starting as early as 7:00am and ending as late as 6pm (Before and After Camp begin 7:30am and 4:30pm); sleepovers run 5:00pm-midnight on Fridays and Saturdays, with a Saturday morning YTA orientation. Compensation is a $7,700 stipend; housing is not provided. Apply through the original posting.</description>
+      <employment_type>Internship/Fellowship, In-Person</employment_type>
+      <post_date>2026-11-17</post_date>
+      <end_date>2026-12-01</end_date>
+      <location>Washington, DC</location>
+      <email></email>
+      <industry>Nonprofit Organization Management</industry>
+      <job_function>Education, Operations, Administrative, Community Engagement</job_function>
+    </item>
+    <item>
+      <recruiter_job_id>11453202</recruiter_job_id>
+      <company>The Heritage Foundation</company>
+      <logo>https://www.google.com/s2/favicons?domain=heritage.org&amp;sz=128</logo>
+      <website>https://virginia.joinhandshake.com/public/jobs/11453202?utm_source=web&amp;utm_campaign=job_share&amp;utm_medium=copy_link&amp;utm_content=stu-copy_link-job_page</website>
+      <company_website>https://www.heritage.org</company_website>
+      <title>Summer 2027 Internship</title>
+      <description>This position was posted with no close date and applications may be reviewed or closed on a rolling basis — interested applicants should apply ASAP! The posting will be removed from Batten Connect on 12/01/2026.
+
+The Heritage Foundation will hire over 50 interns to serve alongside its staff in person in Washington, DC for Summer 2027. The posting does not describe specific duties or departments; it describes program terms and eligibility only. Applicants should review the original posting and Heritage's Young Leaders Program materials for details on placement.
+
+Program terms: All interns are paid $18.50 per hour. The semester runs May 10 - August 6, 2027. Summer interns are required to work full time (40 hours per week); standard hours are 9:00 a.m. - 5:30 p.m., Monday through Friday. Work is in person in Washington, DC.
+
+Eligibility: Applicants will preferably be a college junior or above by credit hours, but students with fewer credit hours are welcome to apply. Recent college graduates, master's students and law students are encouraged to apply. International students authorized to be employed in the United States are eligible. Applicants must be high school graduates.
+
+How to apply: Hiring is on a rolling basis; apply now for immediate consideration. Submit the online application, unofficial transcripts and two professional references through the original posting. Questions can be sent to youngleadersprogram@heritage.org. For full position details and to apply, please visit the original posting.</description>
+      <employment_type>Internship/Fellowship, In-Person</employment_type>
+      <post_date>2026-11-17</post_date>
+      <end_date>2026-12-01</end_date>
+      <location>Washington, DC</location>
+      <email></email>
+      <industry>Think Tanks</industry>
+      <job_function>Research, Advocacy, Student Employment</job_function>
+    </item>
+    <item>
+      <recruiter_job_id>11946783</recruiter_job_id>
+      <company>Mayo Clinic</company>
+      <logo>https://www.google.com/s2/favicons?domain=mayoclinic.org&amp;sz=128</logo>
+      <website>https://virginia.joinhandshake.com/public/jobs/11946783?utm_source=web&amp;utm_campaign=job_share&amp;utm_medium=copy_link&amp;utm_content=stu-copy_link-job_page</website>
+      <company_website>https://www.mayoclinic.org</company_website>
+      <title>Strategy Internship</title>
+      <description>Mayo Clinic's Strategy Internship is a paid, three-month learning experience for first-year graduate students interested in shaping the future of healthcare. Designed as a pathway into a full-time role, it provides hands-on experience in healthcare strategy, consulting and organizational transformation at one of the world's most respected health systems. High-performing interns are strongly considered for full-time conversion opportunities within Mayo Clinic Strategy following graduation.
+
+Key responsibilities: Work directly with Strategy Managers and cross-functional teams to support organizational priorities; apply strategic, analytical and consulting methods to complex business challenges; contribute to initiatives spanning healthcare delivery, digital transformation, applied analytics and operational improvement; and help design frameworks, tools and models that advance Mayo Clinic's long-term strategic goals. Interns gain exposure to a wide range of strategic disciplines and build critical thinking and communication skills.
+
+Qualifications: Completion of the first year of a master's program, typically in management, healthcare administration, operations, analytics or a health-related field (applicants from other fields are considered). Experience in strategy, consulting, finance, digital technology enablement, applied analytics and leadership is preferred but not required; strong presentation, oral and written communication skills. The preferred candidate will have prior external consulting, healthcare or military experience. This vacancy is not eligible for visa sponsorship or transfer, and Mayo Clinic does not participate in the F-1 STEM OPT extension program.
+
+Logistics: Full-time, three-month internship, Monday-Friday 8-5, at a predetermined rate of $40.00 per hour (not benefits eligible). The listing shows Rochester, MN with a work location of U.S. Remote Worker (fully remote). Posted 11/11/2026; the posting is scheduled to close 12/02/2026 at 11:55 PM. Apply through the original posting.</description>
+      <employment_type>Internship/Fellowship, Remote</employment_type>
+      <post_date>2026-11-17</post_date>
+      <end_date>2026-12-02</end_date>
+      <location>Remote</location>
+      <email></email>
+      <industry>Hospital &amp; Health Care</industry>
+      <job_function>Consulting, Analyst, Project Management, Healthcare Services</job_function>
+    </item>
+    <item>
+      <recruiter_job_id>N-27-13065598-JLE</recruiter_job_id>
+      <company>U.S. Department of the Air Force</company>
+      <logo>https://www.google.com/s2/favicons?domain=af.mil&amp;sz=128</logo>
+      <website>https://intern.usajobs.gov/job/885619700</website>
+      <company_website>https://www.af.mil</company_website>
+      <title>Logistics Management Specialist (Air Force Civilian Career Training, GS-9)</title>
+      <description>The Department of the Air Force is hiring interns through its civilian career training program for the full range of conventional logistics management duties, completing developmental assignments and training outlined in a formal training and development plan. Interns are placed in the 0346 Logistics Management series at the GS-9 level, with promotion potential to GS-12.
+
+Key responsibilities: Perform developmental assignments in life cycle logistics management and operational program analysis; perform recurring assignments designed to build the ability to work independently on tasks of increasing difficulty and complexity; carry out special projects and participate in special initiatives and studies; and prepare written correspondence and other documentation, including newsletter items, responses to routine inquiries, reports and letters.
+
+Qualifications and conditions: Appointment type is Internships in the Competitive Service. The position requires a Secret clearance (Noncritical-Sensitive, moderate risk) and a Suitability/Fitness background check. No drug test is required, and no financial disclosure is required. Occasional travel may be expected. Review the full announcement on USAJOBS for eligibility, education and application requirements, as the pasted text did not include them.
+
+Logistics: Full-time. Salary is $61,722 - $120,696 per year (GS-9; pay varies by location). The announcement is open October 1, 2026 through September 30, 2027, with multiple installation locations; apply through the USAJOBS announcement.</description>
+      <employment_type>Internship/Fellowship</employment_type>
+      <post_date>2026-11-17</post_date>
+      <end_date>2027-09-30</end_date>
+      <location>Multiple Locations</location>
+      <email></email>
+      <industry>Government – Federal</industry>
+      <job_function>Government - Federal, Operations, Analyst, Project Management</job_function>
+    </item>
+    <item>
+      <recruiter_job_id>D-27-DHA-0020-07-09-MDL</recruiter_job_id>
+      <company>U.S. Department of the Air Force (PALACE Acquire Program)</company>
+      <logo>https://www.google.com/s2/favicons?domain=af.mil&amp;sz=128</logo>
+      <website>https://intern.usajobs.gov/job/889594400</website>
+      <company_website>https://www.af.mil</company_website>
+      <title>PALACE Acquire Intern, Community Planning (GS-0020, GS-7 to GS-9)</title>
+      <description>The PALACE Acquire Program offers interns a permanent position upon completion of a formal training plan. Interns experience personal and professional growth while dealing effectively and ethically with change, complexity and problem solving. The program offers a 3-year formal training plan with yearly salary increases; promotions and salary increases are based on successful performance and supervisory approval. This announcement is for Community Planning (GS-0020), with promotion potential to GS-12.
+
+Key responsibilities (GS-7 level): Perform routine taskings of limited scope involving the formulation and implementation of planning processes, supporting higher-graded personnel; support maintenance of the Installation Development Plan (IDP); support the Air Installation Compatible Use Zone (AICUZ) program; support the Interagency/Intergovernmental Coordination for Environmental Planning (IICEP) program as it relates to the IDP, the Housing Community Plan, AICUZ studies, transportation studies and individual construction projects; and perform other assignments under the formal training plan. At the GS-9 level, interns handle continuing assignments of moderate difficulty, including reviewing and coordinating the preparation, implementation and maintenance of the IDP.
+
+Qualifications and conditions: Internship appointment in the Competitive Service; Secret clearance (Noncritical-Sensitive, moderate risk); drug test required; Suitability/Fitness background check. Occasional travel may be expected. Not telework eligible. See USAJOBS for full eligibility and education requirements.
+
+Logistics: Full-time. Salary is $50,460 - $100,315 per year (GS 7-9; varies by location). Open October 1, 2026 through September 30, 2027. Apply through the USAJOBS announcement.</description>
+      <employment_type>Internship/Fellowship, In-Person</employment_type>
+      <post_date>2026-11-17</post_date>
+      <end_date>2027-09-30</end_date>
+      <location></location>
+      <email></email>
+      <industry>Government – Federal</industry>
+      <job_function>Government - Federal, Analyst, Project Management, Energy/Environment</job_function>
+    </item>
+    <item>
+      <recruiter_job_id>S/CPR-PTH-2027-0001</recruiter_job_id>
+      <company>U.S. Department of State, Office of the Chief of Protocol</company>
+      <logo>https://www.google.com/s2/favicons?domain=state.gov&amp;sz=128</logo>
+      <website>https://intern.usajobs.gov/job/892460000</website>
+      <company_website>https://www.state.gov</company_website>
+      <title>Pathways Intern (Student Trainee), Office of the Chief of Protocol</title>
+      <description>The Office of the Chief of Protocol (S/CPR) advises the President, Vice President and Secretary of State on diplomatic and official protocol. The office plans and runs official ceremonies, visits and events for senior U.S. government leaders, manages the accreditation of foreign diplomats, operates Blair House, and handles diplomatic gifts and customs. As a Pathways intern, you will provide protocol, administrative and technical support to S/CPR staff and help coordinate and carry out high-profile ceremonies, visits and events that follow U.S. protocol standards.
+
+Key responsibilities: Assist with supply, facilities and procurement requests; help prepare itineraries, briefing materials and correspondence for official visits while maintaining tracking records and coordinating logistics with internal and external contacts; help staff prepare for major events and official travel through planning, logistics and scheduling; collect and organize data and prepare clear written materials and presentations; build working relationships across offices; and complete classroom and on-the-job training.
+
+Conditions: 0399 Administration and Office Support Student Trainee, GS-07, Excepted Service; a non-temporary excepted appointment expected to last more than one year. Secret clearance, drug test and national security background check required. Telework eligible as determined by agency policy. Travel up to 25%. Four vacancies, Washington, DC.
+
+Logistics: Full-time (8:15am-5:00pm). Salary $57,736 - $75,059 per year. The announcement is open November 16-20, 2026, or until 50 applications are received, whichever comes first, so it may close sooner. Apply through the USAJOBS announcement.</description>
+      <employment_type>Internship/Fellowship</employment_type>
+      <post_date>2026-11-17</post_date>
+      <end_date>2026-11-20</end_date>
+      <location>Washington, DC</location>
+      <email></email>
+      <industry>Government – Federal</industry>
+      <job_function>Government - Federal, Administrative, Operations, Project Management, Support</job_function>
+    </item>
+    <item>
+      <recruiter_job_id>26-13057222</recruiter_job_id>
+      <company>Central Intelligence Agency</company>
+      <logo>https://www.google.com/s2/favicons?domain=cia.gov&amp;sz=128</logo>
+      <website>https://intern.usajobs.gov/job/883860200</website>
+      <company_website>https://www.cia.gov</company_website>
+      <title>Student Programs: Undergraduate Internship, Co-Op and Graduate Studies (Summer 2027)</title>
+      <description>The Central Intelligence Agency offers student internships in which students work alongside experts in their career field, contribute from day one to the national security mission, and develop tradecraft excellence, leadership attributes and intelligence acumen. Successful interns may be offered a full-time position after graduation, subject to career hiring requirements. This announcement covers the Undergraduate Internship Program, Undergraduate Co-Op Program, Graduate Studies Program and Part-Time Parallel Program (open only to those who previously completed a summer work tour).
+
+Student tracks include (not limited to): Accounting and Finance; Analysis; Attorneys; Auditor/Program Analyst; Contracting Officer; Data Science/Data Engineer; Facilities; Human Resources; Logistics; Police Officer/Security Officer; STEM; and Support. Operations internships are not part of this announcement; the posting says to check the CIA website in December 2026. CIA is not hiring Stokes Scholars for Summer 2027.
+
+Requirements and conditions: Students must be in full-time academic status and commit to a 12-week internship. Applicants must meet specific criteria to qualify for employment, including medical and security evaluations; the position requires Sensitive Compartmented Information (SCI) access, a national security background check, a drug test and financial disclosure (High Risk). Not telework eligible.
+
+Logistics: All internships are in the Washington, DC area; non-local students receive travel reimbursement from their school to DC for the summer. Interns receive benefits including annual and sick leave and healthcare. Salary is $54,378 - $71,209 per year (GS 5-7). Open September 1, 2026 through January 31, 2027. Apply through the USAJOBS announcement.</description>
+      <employment_type>Internship/Fellowship, In-Person</employment_type>
+      <post_date>2026-11-17</post_date>
+      <end_date>2027-01-31</end_date>
+      <location>Washington, DC</location>
+      <email></email>
+      <industry>Government – Federal</industry>
+      <job_function>Government - Federal, Analyst, Security, Support</job_function>
+    </item>
+    <item>
+      <recruiter_job_id>893034400</recruiter_job_id>
+      <company>U.S. Department of Transportation, Office of Inspector General</company>
+      <logo>https://www.google.com/s2/favicons?domain=oig.dot.gov&amp;sz=128</logo>
+      <website>https://intern.usajobs.gov/job/893034400</website>
+      <company_website>https://www.oig.dot.gov</company_website>
+      <title>Student Trainee (Auditor), Program Audits</title>
+      <description>The Office of Inspector General (OIG) works within the U.S. Department of Transportation (DOT) to promote efficiency and effectiveness and to prevent or stop waste, fraud and abuse in departmental programs, through audits and investigations. OIG also consults with Congress about programs in progress and proposed new laws and regulations.
+
+Key responsibilities: The work primarily involves program audits. The auditor trainee works with a team leader in a developmental capacity to determine the effectiveness and efficiency of DOT organizations, programs and activities. Duties include applying professional accounting and auditing knowledge, standards and principles in an objective examination of records, management reports, management controls and policies; researching laws, legislative history, regulations and contracts to understand a program's purpose, scope and objectives; assisting in all phases of audits (planning, conducting and preparing the final product); assisting in examining and testing records and management controls using statistical and/or judgmental sampling; conducting assigned audit phases under Generally Accepted Government Auditing Standards (GAGAS); preparing work papers in the audit management system, interview summaries and briefing materials; assisting in interviews with program employees; and supporting entrance and exit conferences and follow-up on corrective actions.
+
+Conditions: 0599 Financial Management Student Trainee, GS-07 (promotion potential GS-13), Excepted Service. Internship appointment not to exceed September 30, 2027, but may be extended without further posting. No security clearance or drug test required; Suitability/Fitness background check. Not telework eligible; travel up to 25%.
+
+Logistics: Full-time paid summer internship that may be extended through September 30, 2027. Salary is $53,361 - $75,059 per year. Many vacancies in Washington, DC; Atlanta, GA; and Woburn, MA. Open November 16 - December 15, 2026. See USAJOBS for eligibility and education requirements, which were not included in the pasted text. Apply through the USAJOBS announcement.</description>
+      <employment_type>Internship/Fellowship, In-Person</employment_type>
+      <post_date>2026-11-17</post_date>
+      <end_date>2026-12-15</end_date>
+      <location>Washington, DC; Atlanta, GA; Woburn, MA</location>
+      <email></email>
+      <industry>Government – Federal</industry>
+      <job_function>Government - Federal, Accounting, Analyst, Research</job_function>
+    </item>
+    <item>
+      <recruiter_job_id>893035000</recruiter_job_id>
+      <company>U.S. Department of Transportation, Office of Inspector General</company>
+      <logo>https://www.google.com/s2/favicons?domain=oig.dot.gov&amp;sz=128</logo>
+      <website>https://intern.usajobs.gov/job/893035000</website>
+      <company_website>https://www.oig.dot.gov</company_website>
+      <title>Student Trainee (Auditor), Program and Financial Audits</title>
+      <description>The Office of Inspector General (OIG) works within the U.S. Department of Transportation (DOT) to promote efficiency and effectiveness and to prevent or stop waste, fraud and abuse in departmental programs, through audits and investigations. OIG also consults with Congress about programs in progress and proposed new laws and regulations.
+
+Key responsibilities: The work primarily involves program and financial audits. The auditor trainee works with a team leader in a developmental capacity to determine the effectiveness and efficiency of organizations, programs and activities applicable to financial programs. Duties mirror a team-based audit: applying professional accounting and auditing knowledge and standards; researching pertinent laws, legislative history, regulations, contracts and management controls; assisting in all phases of audit work; examining and testing records and management controls using statistical and/or judgmental sampling; conducting assigned phases under GAGAS; preparing work papers in the audit management system, interview summaries and briefing materials; assisting in interviews; and supporting entrance and exit conferences and follow-up inquiries on corrective actions. Some travel may be required.
+
+Conditions: 0599 Financial Management Student Trainee, GS-07 (promotion potential GS-13), Excepted Service. Internship appointment not to exceed September 30, 2027, but may be extended without further posting. No security clearance or drug test required; Suitability/Fitness background check. Not telework eligible; travel up to 25%.
+
+Logistics: Full-time paid summer internship that may be extended through September 30, 2027. Salary is $53,361 - $75,059 per year. Many vacancies in Washington, DC; Atlanta, GA; and Woburn, MA. Open November 16 - December 15, 2026. See USAJOBS for eligibility and education requirements, which were not included in the pasted text. Apply through the USAJOBS announcement.</description>
+      <employment_type>Internship/Fellowship, In-Person</employment_type>
+      <post_date>2026-11-17</post_date>
+      <end_date>2026-12-15</end_date>
+      <location>Washington, DC; Atlanta, GA; Woburn, MA</location>
+      <email></email>
+      <industry>Government – Federal</industry>
+      <job_function>Government - Federal, Accounting, Analyst, Research</job_function>
+    </item>
+    <item>
+      <recruiter_job_id>892855000</recruiter_job_id>
+      <company>U.S. Secret Service</company>
+      <logo>https://www.google.com/s2/favicons?domain=secretservice.gov&amp;sz=128</logo>
+      <website>https://intern.usajobs.gov/job/892855000</website>
+      <company_website>https://www.secretservice.gov</company_website>
+      <title>Student Trainee (Administrative Operations)</title>
+      <description>Joining the U.S. Secret Service as a Student Trainee (Administrative Operations) means performing a variety of administrative duties in support of the organization's office staff. The selectee will serve in the Office of Strategy, Planning and Innovation. The position starts at $46,610 (GS-5, step 1) or $57,736 (GS-7, step 1), with promotion potential to $91,815 (GS-9, step 10).
+
+Key responsibilities: Provide administrative support by maintaining office calendars and schedules, coordinating meetings, conferences and visits, preparing agendas and meeting summaries, arranging travel and lodging, and supporting contracting and procurement; maintain office files, review and route incoming correspondence, and help develop and update standard office procedures; assist with responses to external audits and use office automation tools to generate reports, graphics, charts and PowerPoint presentations; process financial/budget and credit card transactions and personnel actions; and review and analyze administrative policies, clarify guidelines and recommend changes to the supervisor.
+
+Conditions: 0399 Administration and Office Support Student Trainee, GS 5-7, Excepted Service, Internship appointment. Top Secret clearance (Critical-Sensitive, high risk), drug test, and credentialing, suitability and national security background checks required. Not telework eligible. Many vacancies in Washington, DC. See USAJOBS for eligibility and education requirements.
+
+Logistics: Multiple schedules (part-time or full-time). Salary $46,610 - $75,059 per year. This announcement is open only November 16-18, 2026, so it closes tomorrow. Apply through the USAJOBS announcement.</description>
+      <employment_type>Internship/Fellowship, In-Person</employment_type>
+      <post_date>2026-11-17</post_date>
+      <end_date>2026-11-18</end_date>
+      <location>Washington, DC</location>
+      <email></email>
+      <industry>Government – Federal</industry>
+      <job_function>Government - Federal, Administrative, Operations, Support</job_function>
     </item>
   </channel>
 </rss>

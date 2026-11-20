@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   UVA BATTEN INTERNSHIP BOARD / GRADUWAY - INTERNSHIP RSS FEED
-  Last updated: 2026-11-18
-  Jobs in feed: 74
+  Last updated: 2026-11-20
+  Jobs in feed: 80
 -->
 <rss version="2.0">
   <channel>
@@ -10,8 +10,8 @@
     <link>https://batten.uva.edu</link>
     <description>Curated internship listings for UVA Batten Internship Board powered by Graduway</description>
     <language>en-us</language>
-    <pubDate>2026-11-18</pubDate>
-    <lastBuildDate>2026-11-18</lastBuildDate>
+    <pubDate>2026-11-20</pubDate>
+    <lastBuildDate>2026-11-20</lastBuildDate>
     <item>
       <recruiter_job_id>859</recruiter_job_id>
       <company>CNA</company>
@@ -1333,28 +1333,6 @@ Logistics: Full-time paid summer internship that may be extended through Septemb
       <job_function>Government - Federal, Accounting, Analyst, Research</job_function>
     </item>
     <item>
-      <recruiter_job_id>892855000</recruiter_job_id>
-      <company>U.S. Secret Service</company>
-      <logo>https://www.google.com/s2/favicons?domain=secretservice.gov&amp;sz=128</logo>
-      <website>https://intern.usajobs.gov/job/892855000</website>
-      <company_website>https://www.secretservice.gov</company_website>
-      <title>Student Trainee (Administrative Operations)</title>
-      <description>Joining the U.S. Secret Service as a Student Trainee (Administrative Operations) means performing a variety of administrative duties in support of the organization's office staff. The selectee will serve in the Office of Strategy, Planning and Innovation. The position starts at $46,610 (GS-5, step 1) or $57,736 (GS-7, step 1), with promotion potential to $91,815 (GS-9, step 10).
-
-Key responsibilities: Provide administrative support by maintaining office calendars and schedules, coordinating meetings, conferences and visits, preparing agendas and meeting summaries, arranging travel and lodging, and supporting contracting and procurement; maintain office files, review and route incoming correspondence, and help develop and update standard office procedures; assist with responses to external audits and use office automation tools to generate reports, graphics, charts and PowerPoint presentations; process financial/budget and credit card transactions and personnel actions; and review and analyze administrative policies, clarify guidelines and recommend changes to the supervisor.
-
-Conditions: 0399 Administration and Office Support Student Trainee, GS 5-7, Excepted Service, Internship appointment. Top Secret clearance (Critical-Sensitive, high risk), drug test, and credentialing, suitability and national security background checks required. Not telework eligible. Many vacancies in Washington, DC. See USAJOBS for eligibility and education requirements.
-
-Logistics: Multiple schedules (part-time or full-time). Salary $46,610 - $75,059 per year. This announcement is open only November 16-18, 2026, so it closes tomorrow. Apply through the USAJOBS announcement.</description>
-      <employment_type>Internship/Fellowship, In-Person</employment_type>
-      <post_date>2026-11-17</post_date>
-      <end_date>2026-11-18</end_date>
-      <location>Washington, DC</location>
-      <email></email>
-      <industry>Government – Federal</industry>
-      <job_function>Government - Federal, Administrative, Operations, Support</job_function>
-    </item>
-    <item>
       <recruiter_job_id>BATTEN-ARGUMENT-FELLOW-20261117</recruiter_job_id>
       <company>The Argument</company>
       <logo>https://www.google.com/s2/favicons?domain=theargumentmag.com&amp;sz=128</logo>
@@ -1741,6 +1719,172 @@ Logistics: 6-month term, up to 20 hours per week, $20 per hour, in Washington, D
       <email></email>
       <industry>Think Tanks</industry>
       <job_function>Legislative, Research, Operations, Government - Federal, Administrative</job_function>
+    </item>
+    <item>
+      <recruiter_job_id>4490820660</recruiter_job_id>
+      <company>Johns Hopkins University Applied Physics Laboratory (APL)</company>
+      <logo>https://www.google.com/s2/favicons?domain=jhuapl.edu&amp;sz=128</logo>
+      <website>https://www.linkedin.com/jobs/view/4490820660/</website>
+      <company_website>https://www.jhuapl.edu</company_website>
+      <title>Strategic Analysis and Integration Intern, National Security Analysis Department</title>
+      <description>This position was posted with no close date and applications may be reviewed or closed on a rolling basis — interested applicants should apply ASAP! The posting will be removed from Batten Connect on 12/04/2026.
+
+The Johns Hopkins University Applied Physics Laboratory (APL) brings expertise to the nation's defense, security, space and science challenges. Its National Security Analysis Department (NSAD) conducts independent, adversary-informed analysis that sharpens national security decision-making. The Strategic Analysis and Integration group integrates operational realities, strategic context, policy nuance, intelligence-informed insight and the impact of emerging technologies to help senior leaders understand available choices, risks and trade-offs.
+
+What the work addresses: How a new adversary capability could change how the U.S. structures, postures and employs its forces; how an adversary might adapt to a new U.S. capability; how AI could change military operations and how new capabilities, including AI, should be evaluated; how to gather and analyze data on critical supply chains; how services should make investment decisions on emerging technologies; what doctrine, training, policy and force-design changes are needed to integrate new technology; and how new technologies challenge existing laws and policies.
+
+Minimum qualifications: Pursuing a bachelor's, master's or doctoral degree in political science, public policy, history, international studies, operations research, mathematics, statistics, economics, intelligence studies, psychology, engineering, physical sciences or another relevant discipline; knowledge of quantitative research methods, data visualization and/or qualitative methods; minimum 3.0 GPA; excellent oral and written communication, including analytical briefings; initiative and curiosity. Must be able to obtain an Interim Secret clearance by the start date and ultimately a Final Secret clearance, which requires U.S. citizenship. Preferred: experience with government (especially the Department of Defense or Intelligence Community), advanced analytic techniques including AI, and analysis of emerging technologies or military capabilities.
+
+Logistics: The pasted text does not state the internship title, dates, or exact work location (APL's campus is in the Baltimore-Washington metro area). Pay range is $22.60 - $47.95 per hour. Applications are accepted on a rolling basis through the LinkedIn posting.</description>
+      <employment_type>Internship/Fellowship</employment_type>
+      <post_date>2026-11-20</post_date>
+      <end_date>2026-12-04</end_date>
+      <location>Baltimore-Washington Metro Area</location>
+      <email></email>
+      <industry>Defense &amp; Space</industry>
+      <job_function>Research, Analyst, Government - Federal, Quantitative/Data Analysis, Military &amp; Law Enforcement</job_function>
+    </item>
+    <item>
+      <recruiter_job_id>4492191360</recruiter_job_id>
+      <company>National Institute for Civil Discourse (NICD)</company>
+      <logo>https://www.google.com/s2/favicons?domain=nicd.org&amp;sz=128</logo>
+      <website>https://www.linkedin.com/jobs/view/4492191360/</website>
+      <company_website>https://nicd.org</company_website>
+      <title>Fellow (Six-Month Fellowship), CommonSense American and State Legislative Program</title>
+      <description>This position was posted with no close date and applications may be reviewed or closed on a rolling basis — interested applicants should apply ASAP! The posting will be removed from Batten Connect on 12/04/2026.
+
+The National Institute for Civil Discourse (NICD) is seeking a six-month fellow to help build the nation's capacity to engage differences more constructively, primarily through two programs. The flagship CommonSense American (CSA) program advances commonsense federal legislative solutions that attract grassroots support across political divisions; working with more than 90,000 members, NICD reports helping champion four bipartisan solutions into law: ending surprise medical billing (2020), investing in physical infrastructure (2021), updating the Electoral Count Act (2022) and extending Pell Grants to shorter-term workforce programs (2025). The State Legislative Program builds the capacity of the nation's 7,000+ state legislators to engage the partisan divide productively.
+
+Key responsibilities: CommonSense American: lead engagement with the 90,000+ members, including email engagement through an automated platform; help develop issue briefs; analyze and report results from member issue polls; and coordinate scheduling and help conduct briefings with Members of Congress and staff on poll results. State Legislative Program: work with staff to coordinate and conduct programs and workshops for state legislatures and at annual meetings of national associations of state legislators, including logistics and travel for trained legislator facilitators.
+
+Qualifications: B.A. or B.S. degree; exceptional policy research, writing, organizational and project management skills with attention to detail; exceptional written and oral communication; strong technical skills (Word, Google Docs, Excel/Sheets including formulas, VLOOKUPs, pivot tables and charts, PowerPoint, Outlook/Gmail with email merge); strong data organization, analysis, visualization and reporting skills; keen interest in and understanding of American politics and the ability to appreciate diverse political perspectives. Social media and graphic design skills are a plus.
+
+Logistics: Full-time, six-month contract that could be extended or become a salaried position with benefits. Compensation is $5,000 - $7,500 per month depending on experience. In person at NICD's Washington, DC office (1 Massachusetts Ave. NW, near Capitol Hill). Start date was not stated. Apply through the LinkedIn posting.</description>
+      <employment_type>Internship/Fellowship, In-Person</employment_type>
+      <post_date>2026-11-20</post_date>
+      <end_date>2026-12-04</end_date>
+      <location>Washington, DC</location>
+      <email></email>
+      <industry>Nonprofit Organization Management</industry>
+      <job_function>Research, Advocacy, Legislative, Quantitative/Data Analysis, Project Management</job_function>
+    </item>
+    <item>
+      <recruiter_job_id>4492701333</recruiter_job_id>
+      <company>The MITRE Corporation</company>
+      <logo>https://www.google.com/s2/favicons?domain=mitre.org&amp;sz=128</logo>
+      <website>https://www.linkedin.com/jobs/view/4492701333/</website>
+      <company_website>https://www.mitre.org</company_website>
+      <title>Health Policy Graduate Intern, Center for Transforming Health</title>
+      <description>This position was posted with no close date and applications may be reviewed or closed on a rolling basis — interested applicants should apply ASAP! The posting will be removed from Batten Connect on 12/04/2026.
+
+MITRE is a nonprofit engineering, applied research and advanced technology organization that operates federally funded research and development centers for U.S. government agencies. Its Center for Transforming Health (CTH) manages MITRE's Health FFRDC portfolio, serving sponsors including the Centers for Medicare &amp; Medicaid Services (CMS), Indian Health Service, FCC, SAMHSA, Army, HHS offices, FDA, NIH and HRSA. The graduate intern supports the Health Policy department, working on projects for CMS, NIH, CDC and other federal civilian agencies.
+
+Key responsibilities: Support project teams in thinking about legal and regulatory considerations, rule writing, program evaluation and qualitative/quantitative research. The role requires a basic understanding of health policy (identifying implications of policy or regulatory choices and projected outcomes), public health, health information technology, privacy and other health-related government initiatives. An example project is the CMS Division of Value, Incentives, and Quality Reporting effort, where MITRE assists CMS with rule writing and regulatory research for eleven Medicare FFS quality reporting and incentive programs. Experience drafting or interpreting regulations will significantly help.
+
+Basic qualifications: Currently pursuing a master's, legal or doctoral degree in or related to health policy; sustained academic excellence; enrolled full-time in an accredited degree-seeking program in public health, law or a related field and continuing full-time the semester after the internship; subject matter expertise in public health and health-related government initiatives; strong written and oral communication; ability to juggle multiple projects. Candidates must be U.S. citizens. Preferred: R, Python or Stata proficiency (AI/GitHub a bonus), 1-2 years of health policy experience, knowledge of public health law and regulatory processes, ability to work with interdisciplinary teams.
+
+Logistics: Onsite five days per week in Baltimore, MD or McLean, VA. No clearance is required to start. The listing shows an annualized salary range of $70,800 - $106,200 (midpoint $88,500); dates were not stated. Apply through the LinkedIn posting.</description>
+      <employment_type>Internship/Fellowship, In-Person</employment_type>
+      <post_date>2026-11-20</post_date>
+      <end_date>2026-12-04</end_date>
+      <location>Baltimore, MD or McLean, VA</location>
+      <email></email>
+      <industry>Research</industry>
+      <job_function>Research, Analyst, Legal, Healthcare Services, Government - Federal</job_function>
+    </item>
+    <item>
+      <recruiter_job_id>4491656756</recruiter_job_id>
+      <company>CrowdStrike</company>
+      <logo>https://www.google.com/s2/favicons?domain=crowdstrike.com&amp;sz=128</logo>
+      <website>https://www.linkedin.com/jobs/view/4491656756/</website>
+      <company_website>https://www.crowdstrike.com</company_website>
+      <title>Public Policy Intern, Privacy &amp; Public Policy (Launch Internship, Summer 2027)</title>
+      <description>This position was posted with no close date and applications may be reviewed or closed on a rolling basis — interested applicants should apply ASAP! The posting will be removed from Batten Connect on 12/04/2026.
+
+CrowdStrike is a global cybersecurity company whose AI-native platform protects organizations' people, processes and technologies. The Launch Internship Program is an early-career opportunity aimed at freshman- and sophomore-level students (graduating 2029-2030), with paid positions, structured experience and mentorship. This Public Policy intern supports the team within the Privacy &amp; Public Policy organization, which is globally distributed and integral to CrowdStrike's corporate and technology strategy.
+
+What you'll do: Monitor and prepare briefings on cyber and/or AI-related legislation; support policy projects and engagements across U.S. and international portfolios; complete long- and short-term research projects on a variety of topics; attend and summarize hearings, meetings and policy discussions; and learn about CrowdStrike's public policy engagement and strategy.
+
+What you'll need: Highly organized self-starter in a fast-paced environment; strong written and verbal communication; team player who meets deadlines with exceptional attention to detail; comfort and good judgment using AI tools; interest in public policy and legislative affairs; and advanced studies in Political Science, Public Policy, Business, Cybersecurity or similar. NOTE: the posting is internally inconsistent on class year: it describes freshmen/sophomores (graduating 2029-2030) but also says interns must have completed two years of a four-year program, graduating in 2028. Check eligibility on the original posting.
+
+Logistics: 40 hours per week, Monday-Friday. Hybrid: three days in person at a designated CrowdStrike office (Arlington, VA; Austin, TX; Redmond, WA; San Antonio, TX; Sunnyvale, CA; or St. Louis, MO); the specific location for this role was not stated. Cohort 1 runs May 26 - August 13, 2027 and Cohort 3 runs June 14 - September 3, 2027. Hourly rate for U.S. candidates is $22 - $30. Apply through the LinkedIn posting.</description>
+      <employment_type>Internship/Fellowship, Hybrid</employment_type>
+      <post_date>2026-11-20</post_date>
+      <end_date>2026-12-04</end_date>
+      <location>Multiple Locations (Arlington, VA; Austin, TX; Redmond, WA; San Antonio, TX; Sunnyvale, CA; St. Louis, MO)</location>
+      <email></email>
+      <industry>Information Technology and Services</industry>
+      <job_function>Legislative, Research, Advocacy, Analyst, Government - Federal</job_function>
+    </item>
+    <item>
+      <recruiter_job_id>4492438711</recruiter_job_id>
+      <company>Metrea</company>
+      <logo>https://www.google.com/s2/favicons?domain=metrea.com&amp;sz=128</logo>
+      <website>https://www.linkedin.com/jobs/view/4492438711/</website>
+      <company_website>https://www.metrea.com</company_website>
+      <title>Strategic Relations Intern</title>
+      <description>This position was posted with no close date and applications may be reviewed or closed on a rolling basis — interested applicants should apply ASAP! The posting will be removed from Batten Connect on 12/04/2026.
+
+Metrea delivers effects-as-a-service to national security partners across domains and mission areas including airborne ISR, electronic warfare, secure communications, aerial refueling, special air missions, aerial firefighting and advanced simulation. Headquartered in Washington, DC, it offers paid internships for undergraduate students. The intern reports to the Strategic Relations team, which builds relationships with U.S. elected officials, political appointees and senior military officials and develops insight into the stakeholders and policies that influence funding and acquisition decisions. Interns work with staff across departments and with professionals who have decades of experience in government and the national security environment, and may explore research topics of their own interest.
+
+What you'll do: Support development of briefing materials for engagements with government officials; attend and summarize external events such as congressional hearings and think tank discussions; research legislative proposals and federal, state and local activity related to defense, security and disaster response; cover international organizations and coalitions such as NATO, the United Nations and the Quadrilateral Security Dialogue; and assist the Americas Market Group as needed.
+
+What you bring: Enrollment in an undergraduate or master's program in political science, foreign policy, international business or related studies; demonstrated interest in national security, defense and foreign policy; strong short memo-style writing; willingness to learn the defense industry and Metrea's mission areas; initiative; attention to detail; ability to maintain confidentiality; legal right to work in the U.S. Previous Congress or Executive Branch internship experience is preferred.
+
+Logistics: Part-time, 24 - 30 hours per week, in person at Metrea's Washington, DC office (typically Monday-Friday, 9:00 a.m. - 5:00 p.m.), about 10% local travel. Pay is $24 per hour. Dates were not stated. Apply through the LinkedIn posting.</description>
+      <employment_type>Internship/Fellowship, In-Person</employment_type>
+      <post_date>2026-11-20</post_date>
+      <end_date>2026-12-04</end_date>
+      <location>Washington, DC</location>
+      <email></email>
+      <industry>Defense &amp; Space</industry>
+      <job_function>Research, Legislative, Government - Federal, Analyst, Administrative</job_function>
+    </item>
+    <item>
+      <recruiter_job_id>4466585078</recruiter_job_id>
+      <company>HDR</company>
+      <logo>https://www.google.com/s2/favicons?domain=hdrinc.com&amp;sz=128</logo>
+      <website>https://www.linkedin.com/jobs/view/4466585078/</website>
+      <company_website>https://www.hdrinc.com</company_website>
+      <title>Funding/Financing Intern</title>
+      <description>This position was posted with no close date and applications may be reviewed or closed on a rolling basis — interested applicants should apply ASAP! The posting will be removed from Batten Connect on 11/20/2026.
+
+HDR is an employee-owned engineering, architecture and consulting firm with service lines including water, power, transportation, waste, industrial and building engineering. HDR is seeking a Funding/Financing Intern for its Washington, DC office to develop skills in funding evaluation, grant strategy, strategic planning, project delivery analysis and financial planning. The work typically supports funding, financing and project delivery strategy assignments, including federal infrastructure grant applications.
+
+Key responsibilities: Assist in developing financial plans and models; help identify projects competitive for discretionary state and federal grant funding; research and evaluate funding sources and financing strategies for transportation and water infrastructure projects; support analysis of financial, economic and statistical data; conduct research analyses, collecting and processing data; support solutions to economic, financial and policy issues affecting infrastructure; coordinate with internal and external project teams for data collection and technical analysis; and research and write reports and technical documents.
+
+Required qualifications: Currently enrolled in an undergraduate or graduate program; attention to detail; strong problem-solving and communication skills; basic Microsoft Office skills; and commitment to HDR's employee-owned culture. Preferred: bachelor's degree in planning, economics, public finance, business or a related field; interest in budgets, capital improvement planning or financial analysis for transportation agencies, ports, railroads, utilities, MPOs or governments; strong Excel, Word and PowerPoint; two years completed toward a degree with a 3.0+ GPA; local candidates preferred; ability to support client interaction.
+
+Logistics: Full-time temporary position in HDR's Washington, DC office; pay is $21 - $25 per hour. Dates were not stated. The listing was posted November 6, 2026. Apply through the LinkedIn posting.</description>
+      <employment_type>Internship/Fellowship</employment_type>
+      <post_date>2026-11-20</post_date>
+      <end_date>2026-11-20</end_date>
+      <location>Washington, DC</location>
+      <email></email>
+      <industry>Management Consulting</industry>
+      <job_function>Finance, Analyst, Consulting, Quantitative/Data Analysis, Research</job_function>
+    </item>
+    <item>
+      <recruiter_job_id>4492532949</recruiter_job_id>
+      <company>AstraZeneca</company>
+      <logo>https://www.google.com/s2/favicons?domain=astrazeneca.com&amp;sz=128</logo>
+      <website>https://www.linkedin.com/jobs/view/4492532949/</website>
+      <company_website>https://www.astrazeneca.com</company_website>
+      <title>Summer 2027 Policy &amp; Government Affairs Intern (Washington, DC)</title>
+      <description>AstraZeneca is a global biopharmaceutical company. This 12-week internship, based at its Washington, DC site from May 24, 2027 to August 13, 2027, supports the company's federal advocacy, policy analysis and stakeholder engagement efforts and gives interns direct exposure to the federal legislative and political process and the intersection of healthcare policy and corporate advocacy.
+
+Key responsibilities: Support federal advocacy, policy analysis and stakeholder engagement efforts; assist with tracking healthcare legislation, attending congressional hearings and researching key biopharmaceutical policy issues; gain hands-on experience supporting the company's Political Action Committee (PAC) operations; and draft internal policy communications.
+
+Who should apply: Rising juniors and seniors studying Political Science, Public (Health) Policy, Public (Health) Administration, Public Affairs, Political Communications or a related field, with an expected graduation date after August 2027. Required skills and experience: policy analysis and writing (researching complex legislative or regulatory issues and synthesizing them into clear briefs, memos and talking points); strategic communications and digital media (crafting content for digital platforms and social media and tailoring messaging to diverse policy and stakeholder audiences); data analysis and tracking (organizing, interpreting and visualizing data to support legislative tracking, PAC reporting and policy research); excellent verbal and written communication with internal leaders, coalition partners and external stakeholders; the ability to work in a fast-paced, team-oriented environment while managing multiple projects and deadlines; and strong command of the Microsoft 365 suite alongside practical experience using generative AI tools for research, drafting and project workflows.
+
+Eligibility and logistics: U.S. work authorization is required at the time of application, and the role will not grant CPT support. Interns must report onsite to the Washington, DC site three days per week; no relocation assistance is provided. Compensation is $31 - $32.50 per hour. The listing was posted November 18, 2026 and closes December 20, 2026. Apply through the LinkedIn posting.</description>
+      <employment_type>Internship/Fellowship, Hybrid</employment_type>
+      <post_date>2026-11-20</post_date>
+      <end_date>2026-12-20</end_date>
+      <location>Washington, DC</location>
+      <email></email>
+      <industry>Biotechnology</industry>
+      <job_function>Advocacy, Legislative, Lobbying, Research, Government - Federal, Media, Communications, &amp; PR</job_function>
     </item>
   </channel>
 </rss>
